@@ -1,4 +1,12 @@
-# Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milímetros.
-n = int(input('Numero em metros:'))
-print('Em centimetros:', n * 100)
-print('Em milimetros:', n * 1000)
+# Faça um programa que leia um numero inteiro qualquer e mostre na tela a sua tabuada.
+n = int(input('Qual o numero?:'))
+print('1 x',n,'=' ,n * 1)
+print('2 x',n,'=' ,n * 2)
+print('3 x',n,'=' ,n * 3)
+print('4 x',n,'=' ,n * 4)
+print('5 x',n,'=' ,n * 5)
+print('6 x',n,'=' ,n * 6)
+print('7 x',n,'=' ,n * 7)
+print('8 x',n,'=' ,n * 8)
+print('9 x',n,'=' ,n * 9)
+print('10 x',n,'=' ,n * 10)
