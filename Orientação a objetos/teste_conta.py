@@ -1,3 +1,4 @@
+from conta import Conta
 def cria_conta(numero, tirular, saldo, limite):
     """
     Cria uma conta apos dados os dados:
@@ -46,3 +47,4 @@ extrato(conta)
 
 saca(conta, 20.0)
 extrato(conta)
+
