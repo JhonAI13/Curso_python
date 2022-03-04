@@ -41,10 +41,24 @@ def extrato(conta):
     print(f"numero: {conta['numero']} \nsaldo: {conta['saldo']}")
 
 
-conta = cria_conta('123-7', 'João', 500.0, 1000.0)
-deposita(conta, 50.0)
-extrato(conta)
+# conta = cria_conta('123-7', 'João', 500.0, 1000.0)
+# deposita(conta, 50.0)
+# extrato(conta)
+#
+# saca(conta, 20.0)
+# extrato(conta)
 
-saca(conta, 20.0)
-extrato(conta)
+# conta = Conta()
+# print(type(conta))
+#
+# conta.titular = "João"
+# print(conta.titular)
+# conta.saldo = 120.0
+# print(conta.saldo)
 
+conta = Conta('123-4', 'João', 120.0, 1000.0)
+print(conta.titular)
+print(conta.saldo)
+
+"""Parei aqui:
+Discuta com seus colegas e instrutor as vantagens da orientação a objetos até aqui."""

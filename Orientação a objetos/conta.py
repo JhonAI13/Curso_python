@@ -1,9 +1,12 @@
+# class Conta:
+#     pass
+
+
 class Conta:
-    pass
+    def __init__(self, numero,titular , saldo, limiete):
+        print("Inicializando uma conta")
+        self.titular = titular
+        self.numero = numero
+        self.saldo = saldo
+        self.limite = limiete
 
-
-conta = Conta()
-print(type(conta))
-
-conta.titular = "João"
-print(conta.titular)
