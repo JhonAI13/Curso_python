@@ -6,7 +6,7 @@ print('centena:',n[1])
 print('milhar:',n[0])'''
 
 n = int(input('Digite um numero:'))
-print('unidade:', n // 1 % 10)
+print('unidade:', n / 1 % 10)
 print('desena:', n // 10 % 10)
 print('centena:', n // 100 % 10)
 print('milhar:', n // 1000 % 10)
