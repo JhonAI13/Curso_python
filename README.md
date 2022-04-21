@@ -1,4 +1,4 @@
-# Estudo_Python
+# Python_estudos
 Repositorio de estudos de Python.
 
 <div style="display: inline_block"><br>

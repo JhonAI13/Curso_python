@@ -1,4 +1,4 @@
-# Estudo_Python
+# Python_estudos
 Esta pasta é para O Curso do Gustavo Guanabara.
 
 <div style="display: inline_block"><br>

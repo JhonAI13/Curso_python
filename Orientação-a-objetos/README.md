@@ -1,4 +1,4 @@
-# Estudo_Python
+# Python_estudos
 Esta pasta é para a parde de POO do liivro da CAELUM.
 
 <div style="display: inline_block"><br>
