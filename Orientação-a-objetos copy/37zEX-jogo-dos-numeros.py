@@ -22,6 +22,7 @@ matriz = []
 def main ():
     while True:
         geraMatrizAleatoria(matriz)
+        imprimeJogo(matriz)
         while True:
             jogada = verificaJogada(matriz)
             trocaElementos(matriz, jogada)
