@@ -17,16 +17,24 @@ import random
 
 
 matriz = []
+
+
 def main ():
     while True:
-        matriz = geraMatrizAleatoria(matriz)
-        print(matriz)
-        jogada = verificaJogada(matriz)
-        trocaElementos(matriz, jogada)
-        print(matriz)
-        if verificaSeVenceu(matriz):
-            False
+        geraMatrizAleatoria(matriz)
+        while True:
+            jogada = verificaJogada(matriz)
+            trocaElementos(matriz, jogada)
+            imprimeJogo(matriz)
+            if verificaSeVenceu(matriz):
+                break
+        print("Você venceu, parabêns!!!!!")
+        v = input("Quer começar novamente(0) \nPara acabar(1):")
+        if v != 1:
+            break
+            
     print("Acabou!!")
+
 
 def geraMatrizAleatoria (matriz):
     lista = list(range(16))
@@ -37,10 +45,11 @@ def geraMatrizAleatoria (matriz):
             linha.append(x)
             lista.remove(x)
         matriz.append(linha)
+    return matriz
 
 
 def verificaSeVenceu(matriz):
-    verificação = [[0,1,2,3],[4,5,6,7],[8,9,10,11],[12,13,14,15]]
+    verificação = [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,0]]
     if matriz[:] == verificação[:]:
         return True
     return False
@@ -56,11 +65,14 @@ def verificaJogada(matriz):
             continue 
             print("Esta errado!!!")
 
-        if n // 10 >= 1 and n // 10 <= 4 : # Verifica se a dezena esta entre 1 a 4
-            if n % 10 >= 1 and n % 10 <= 4: # Verifica se a unidade esta entre 1 a 4
-                if matriz[(n//10)-1][(n%10)-1] != 0: # Verifica se o não esta no valor 0
-                    print(n)
-                    return n
+        linha = (n//10)-1
+        coluna = (n%10)-1
+        linha_zero = ondezero(matriz, n-1)//10
+        coluna_zero = ondezero(matriz, n-1)%10
+
+        if matriz[(n//10)-1][(n%10)-1] != 0: # Verifica se o não esta no valor 0
+            if (linha == linha_zero -1 and coluna == coluna_zero) or (linha == linha_zero and (coluna == coluna_zero-1 or coluna == coluna_zero+1)) or (linha == linha_zero+1 and coluna == coluna_zero):
+                return n
 
 
 def ondezero(matriz, jogada):
@@ -80,5 +92,19 @@ def trocaElementos(matriz,jogada):
     elemento2 = matriz[jog1][jog2]
     matriz[zero1][zero2] = elemento2
     matriz[jog1][jog2] =  elemento1
+
+
+def imprimeJogo(matriz):
+    for i in range(4):
+        print()
+        for j in range(4):
+            if matriz[i][j] >= 10:
+                print(matriz[i][j], end=' ')
+            elif matriz[i][j] == 0:
+                print('  ', end=' ')
+            else: 
+                print(matriz[i][j], end='  ')
+    print()
+
 
 main()
