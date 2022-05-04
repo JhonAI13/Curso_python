@@ -8,13 +8,13 @@ em aula e mais três feitas agora:
 Você pode fazer quantas funções adcionais quanto quiser
 
 Organize o seu jogo dentro da função main. Dê para o usuário a toda rodada
-a opção de desistir(0) ou de inserir uma posição(1), a posição inserida
+a opção de desistir(0) ou de inserir uma posição(1), a posição inserida      
 será feita colocando a linha e coluna da matriz, por exemplo 11 significa que
 estamos nos referenciando ao elemento da linha 1 coluna 1, 32 se referencia ao
 elemento da linha 3 coluna 2
 """
 import random
-
+                         
 
 matriz = []
 
@@ -102,7 +102,7 @@ def imprimeJogo(matriz):
             if matriz[i][j] >= 10:
                 print(matriz[i][j], end=' ')
             elif matriz[i][j] == 0:
-                print('  ', end=' ')
+                print(' ', end='  ')
             else: 
                 print(matriz[i][j], end='  ')
     print()
