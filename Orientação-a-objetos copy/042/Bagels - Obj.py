@@ -3,7 +3,7 @@ from tkinter import *
 
 #Modulo que nós implementamos
 #from seu_ex import *
-from pedro_func import *
+from ex import *
 
 class Bagels:
     def __init__(self, toplevel):

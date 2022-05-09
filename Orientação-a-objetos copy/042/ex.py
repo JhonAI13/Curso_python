@@ -61,19 +61,26 @@ def GeraDicas(num, secretNum, secretNumList):
     Retorna uma lista vazia caso os dois números sejam iguais
     """
     lista = []
-    # if num != secretNum:
-    #     lista.append(0)
+    cont = 0
     num = number_list(num)
     for i in range(0,4):
         if num[i] == secretNumList[i]:
             lista.append(2)
-            print(num[i], secretNumList[i])
-    for j in range(0,4):
-        if num[j] in secretNumList:
-            lista.append(1)
+            cont+=1
+            if cont == 4:
+                break
+        else:
+            if num[i] in secretNumList:
+                lista.append(1)
+                cont+=1
+                if cont == 4:
+                    break
     if lista == [2,2,2,2]:
+        lista = []
         return lista
-           
+    elif len(lista) == 0:
+        lista = []
+        return lista
 
     return lista
 
@@ -97,4 +104,4 @@ def number_list(num):
     return l
 
 
-print(GeraDicas(1233,1234,[1,2,3,4]))
+print(GeraDicas(2065,2065,[2,0,6,5]))
