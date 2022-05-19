@@ -38,3 +38,25 @@ através de uma função separada, que será chamada pelo programa principal.
 O cálculo do percentual de uso também deverá ser feito através de uma função,
 que será chamada pelo programa principal.
 """
+
+
+def main():
+    ""
+def conversor (b):
+    "bytes para megabytes"
+    megabytes = b / 1000
+    return megabytes
+def percentual(unitario, total):
+    "% do total pelas pessoas"
+    per = (unitario / total) *100
+    return per
+def abrir_arquivo(aqu):
+    """Abrir o arquivo.
+    Retona o escrito no arquivo em uma str"""
+    arquivo = open(f"{aqu}", "r")
+    s = arquivo.read()
+    arquivo.close()
+    return s
+
+
+print(abrir_arquivo("C:\Users\T-GAMER\Documents\GitHub\Python_estudos\Orientação-a-objetos copy\h50arquivos\EX-relatorio\usuarios.txt"))
