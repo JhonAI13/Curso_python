@@ -39,12 +39,41 @@ O cálculo do percentual de uso também deverá ser feito através de uma funç�
 que será chamada pelo programa principal.
 """
 
-
 def main():
     ""
+    arquivo = abrir_arquivo("usuarios.txt")
+    tol = conversor(total(arquivo))
+    print("""ACME Inc.               Uso do espaço em disco pelos usuários
+------------------------------------------------------------------------
+Nr.  Usuário        Espaço utilizado     % do uso""")
+    c = 0
+    for i in range(0,12,2):
+        c += 1
+        print(f"{c}    ", end='')
+        espaços = (14-len(arquivo[i]))*" "
+        print(f"{arquivo[i]}{espaços}", end="")
+        stri = arquivo[i+1]
+        con = conversor(int(stri))
+        espaços = (11-len(f"{con:.2f} MB"))*" "
+        print(f"{espaços}{con:.2f} MB")
+    print(f'\nEspaço total ocupado: {tol:.2f} MB \nEspaço médio ocupado: {tol/6:.2f} MB')
+
+    print("""ACME Inc.               Uso do espaço em disco pelos usuários
+------------------------------------------------------------------------
+Nr.  Usuário        Espaço utilizado     % do uso
+
+1    alexandre       434,99 MB             16,85%
+2    anderson       1187,99 MB             46,02%
+3    antonio         117,73 MB              4,56%
+4    carlos           87,03 MB              3,37%
+5    cesar             0,94 MB              0,04%
+6    rosemary        752,88 MB             29,16%
+
+Espaço total ocupado: 2581,57 MB
+Espaço médio ocupado: 430,26 MB""")
 def conversor (b):
     "bytes para megabytes"
-    megabytes = b / 1000
+    megabytes = b / 1048576
     return megabytes
 def percentual(unitario, total):
     "% do total pelas pessoas"
@@ -54,9 +83,13 @@ def abrir_arquivo(aqu):
     """Abrir o arquivo.
     Retona o escrito no arquivo em uma str"""
     arquivo = open(f"{aqu}", "r")
-    s = arquivo.read()
+    s = arquivo.read().split()
     arquivo.close()
     return s
-
-
-print(abrir_arquivo("C:\Users\T-GAMER\Documents\GitHub\Python_estudos\Orientação-a-objetos copy\h50arquivos\EX-relatorio\usuarios.txt"))
+def total(lista):
+    "Somar para obter o total"
+    total = 0
+    for i in range(1,13,2):
+        total += int(lista[i])
+    return total 
+main()
