@@ -41,36 +41,29 @@ que será chamada pelo programa principal.
 
 def main():
     ""
+    
     arquivo = abrir_arquivo("usuarios.txt")
+    # arquivo2 = open("relatório.txt", "w")
     tol = conversor(total(arquivo))
-    print("""ACME Inc.               Uso do espaço em disco pelos usuários
+    p = """ACME Inc.               Uso do espaço em disco pelos usuários
 ------------------------------------------------------------------------
-Nr.  Usuário        Espaço utilizado     % do uso""")
+Nr.  Usuário        Espaço utilizado     % do uso\n"""
     c = 0
     for i in range(0,12,2):
         c += 1
-        print(f"{c}    ", end='')
+        p += f"{c}    "
         espaços = (14-len(arquivo[i]))*" "
-        print(f"{arquivo[i]}{espaços}", end="")
+        p += f"{arquivo[i]}{espaços}"
         stri = arquivo[i+1]
         con = conversor(int(stri))
         espaços = (11-len(f"{con:.2f} MB"))*" "
-        print(f"{espaços}{con:.2f} MB")
-    print(f'\nEspaço total ocupado: {tol:.2f} MB \nEspaço médio ocupado: {tol/6:.2f} MB')
+        p += f"{espaços}{con:.2f} MB"
+        media = f"{((con)/tol)*100:.2f}%"
+        espaços = (18-len(media))*" "
+        p += f'{espaços}{media}\n'
 
-    print("""ACME Inc.               Uso do espaço em disco pelos usuários
-------------------------------------------------------------------------
-Nr.  Usuário        Espaço utilizado     % do uso
-
-1    alexandre       434,99 MB             16,85%
-2    anderson       1187,99 MB             46,02%
-3    antonio         117,73 MB              4,56%
-4    carlos           87,03 MB              3,37%
-5    cesar             0,94 MB              0,04%
-6    rosemary        752,88 MB             29,16%
-
-Espaço total ocupado: 2581,57 MB
-Espaço médio ocupado: 430,26 MB""")
+    p += f'\nEspaço total ocupado: {tol:.2f} MB \nEspaço médio ocupado: {tol/6:.2f} MB'
+    abrirArquivoEColocar(p)
 def conversor (b):
     "bytes para megabytes"
     megabytes = b / 1048576
@@ -92,4 +85,9 @@ def total(lista):
     for i in range(1,13,2):
         total += int(lista[i])
     return total 
+def abrirArquivoEColocar(escreva):
+    arquivo = open(f"relatório.txt", "w")
+    arquivo.write(f"{escreva}")
+    arquivo.close()
+
 main()
