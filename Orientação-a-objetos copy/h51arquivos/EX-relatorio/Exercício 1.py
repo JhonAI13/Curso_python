@@ -40,8 +40,6 @@ que será chamada pelo programa principal.
 """
 
 def main():
-    ""
-    
     arquivo = abrir_arquivo("usuarios.txt")
     # arquivo2 = open("relatório.txt", "w")
     tol = conversor(total(arquivo))
