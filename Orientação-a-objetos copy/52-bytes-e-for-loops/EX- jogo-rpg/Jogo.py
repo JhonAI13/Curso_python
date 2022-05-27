@@ -18,12 +18,29 @@ def Salvar(player_vida, player_sp, inimigos):
         break
     arquivo.close()
 
-
 def CarregaJogo():
     """
     Função que carrega um jogo
     """
-    pass
+    arquivo = open("salvo.txt", "r")
+    arquivo.readline()
+    v = int(arquivo.readline().split()[2])
+    player_vida = v
+    s = int(arquivo.readline().split()[2])
+    player_sp = s
+    arquivo.readline()
+    arquivo.readline()
+    inimigos = []
+    a = []
+    while True:
+        h = arquivo.readline().split()
+        if h == []:
+            break
+        a.append(int(h[0]))
+        a.append(int(h[1]))
+        inimigos.append(a)
+        a = []
+    return player_vida, player_sp, inimigos
 
 def main():
     """

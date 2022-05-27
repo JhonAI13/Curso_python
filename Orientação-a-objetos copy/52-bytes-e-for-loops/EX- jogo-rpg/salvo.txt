@@ -1,9 +1,6 @@
 Player
-Vida = 466
-SP = 100
+Vida = 389
+SP = 10
 
 Inimigos
-1 18
-2 28
-3 38
-4 40
+7 4
