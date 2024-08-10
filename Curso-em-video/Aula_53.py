@@ -8,8 +8,6 @@
 # i = ''
 # l = 0
 # for x in range(c,0,-1):
-#     i = f[h]
-#     h += 1
 #     g = f[x - 1]
 #     print(g, end='')
 #     if i == g:

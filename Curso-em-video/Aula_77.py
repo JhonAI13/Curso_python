@@ -17,3 +17,5 @@ for c in range(0, len(p)):
     for x in range(0, len(p[c])):
         if p[c][x].lower() in 'aeiou':
             print(p[c][x].lower(), end=' ')
+
+
