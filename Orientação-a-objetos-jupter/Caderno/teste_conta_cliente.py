@@ -1,5 +1,25 @@
+from datetime import datetime
+
+class Cliente:
+    def __init__(self, nome, sobrenome, cpf):
+         self.nome = nome
+         self.sobrenome = sobrenome
+         self.cpf = cpf
+         print("Cliente cadastrado.")
+
+class Historico:
+    def __init__(self):
+        self.data_abertura = datetime.today()
+        self.transacoes = []
+
+    def imprime(self):
+        print("data abertura: {}". format(self.data_abertura))
+        print("transações: ")
+        for t in self.transacoes:
+            print("-", t)
+
 class Conta:
-    def	__init__(self, numero, titular, saldo, limite):
+    def	__init__(self, numero, titular, saldo, limite=1000):
         """cria uma conta
 
         Args:
@@ -13,7 +33,7 @@ class Conta:
         self.titular = titular
         self.saldo = saldo
         self.limite = limite
-
+        self.historico = Historico()
 
     def	deposita(self,	valor):
         """Soma um valor a conta
@@ -23,15 +43,7 @@ class Conta:
             valor (_type_): quantidade a ser somada a conta
         """
         self.saldo	+=	valor
-
-    # def	saca(self,	valor):
-    #     """subtrai o valor da conta.
-
-    #     Args:
-    #         conta (_type_): A conta cadastrada
-    #         valor (_type_): O valor a ser sacado
-    #     """
-    #     self.saldo	-=	valor
+        self.historico.transacoes.append("+{}".format(valor)) 
 
     def	extrato(self):
         """Dis quanto tem na conta
@@ -46,11 +58,14 @@ class Conta:
             return False
         else:
             self.saldo	-=	valor
+            self.historico.transacoes.append("-{}".format(valor)) 
             return True
+    
     def transfere(self, destino, valor):
         retirou = self.saca(valor)
         if (retirou == False):
             return False
         else:
             destino.deposita(valor)
+            self.historico.transacoes.append("transferencia de {} para conta{}".format(valor, destino.numero))
             return True
