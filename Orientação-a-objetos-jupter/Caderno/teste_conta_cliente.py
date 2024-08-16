@@ -4,7 +4,7 @@ class Cliente:
     def __init__(self, nome, sobrenome, cpf):
          self.nome = nome
          self.sobrenome = sobrenome
-         self.cpf = cpf
+         self. cpf = cpf
          print("Cliente cadastrado.")
 
 class Historico:
@@ -30,8 +30,8 @@ class Conta:
         """ 
         print("inicializando uma conta")
         self.numero = numero
-        self.titular = titular
-        self.saldo = saldo
+        self._titular = titular
+        self._saldo = saldo
         self.limite = limite
         self.historico = Historico()
 
@@ -69,3 +69,5 @@ class Conta:
             destino.deposita(valor)
             self.historico.transacoes.append("transferencia de {} para conta{}".format(valor, destino.numero))
             return True
+    def pega_saldo(self):
+        return self._saldo

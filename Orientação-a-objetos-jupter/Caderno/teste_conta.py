@@ -48,7 +48,7 @@ class Conta:
             self.saldo	-=	valor
             return True
     def transfere(self, destino, valor):
-        retirou = self.saca(valor)
+        retirou = self.sacar(valor)
         if (retirou == False):
             return False
         else:
