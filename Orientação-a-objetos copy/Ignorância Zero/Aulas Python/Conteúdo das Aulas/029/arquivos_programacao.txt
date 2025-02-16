@@ -1,0 +1,6 @@
+Exercícios\Exercício 1.py
+Exercícios\Exercício 2.py
+Gabarito\Exercício 1 - Gabarito.py
+Gabarito\Exercício 2 - Gabarito.py
+Média maior que sete.py
+brincando.py

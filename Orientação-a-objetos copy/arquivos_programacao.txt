@@ -1,0 +1,985 @@
+042\Bagels - Obj.py
+042\ex.py
+042\ex_respondido.py
+042\pedro_func.py
+35Argumentos-variaveis-e-pré-definidos.py
+36Variaveis-globais-e-locais.py
+37Listas-e-matrizes.py
+37zEX-jogo-dos-numeros.py
+38Nomenclatura-e-descrição.py
+39Refatoração.py
+40Nested_functions_Nonlocal.py
+41Lamda.py
+43\43Break.py
+43\Exercício 1.py
+45String.py
+46Strings_listas_tuplas.py
+47Padrão_ASCII.py
+48Cifra_de_Cezar.py
+49Forca.py
+50Remanescentes.py
+52-bytes-e-for-loops\EX- jogo-rpg\Jogo.py
+52-bytes-e-for-loops\bytes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\002\Primeiro.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\003\Print.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\004\Comentario.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\005\Variavel.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Gabarito\Exercício 1 - Resposta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Gabarito\Exercício 2 - Resposta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Soma.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Cachorros.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Exercicio 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Gabarito\Exercicio 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Gabarito\Exercicio 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Operações.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\008\Balada.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Balada2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Gabarito\Gabarito - Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Gabarito\Gabarito - Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Loja de Tintas.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Maior.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\010\Comparaçoes Multiplas.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\010\Exercicios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\010\Gabarito\Gabarito - Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Dia da Semana.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Exercício\Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Exercício\Exercicio 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Gabarito\Gabarito - Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Gabarito\Gabarito - Exercicio 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Ordem Decrescente.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\teste.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Exercicios\Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Exercicios\Exercicio 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Gabarito\Gabarito - Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Gabarito\Gabarito - Exercicio 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Potência.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Quadrados de números terminados em zero.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\While Loop.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\n!.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\014\Balança de Empresas.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\014\Nested while loop.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Exercicios\Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Exercicios\Exercicio 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Gabarito\Gabarito - Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Gabarito\Gabarito - Exercicio 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Idade.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Numeros Procurados.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Números Palíndromes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Segmentos Crescentes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Segmentos em Sequências.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Soma das Dezenas ao Quadrado.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Subnúmeros - Solução 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Subnúmeros - Solução 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Subnúmeros.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Brincando.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Exercicios\Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Fatorial.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Gabarito\Exercicio 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Numeros Triangulares.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Brincando.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Exercicio\Exercicio 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Exercicio\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Gabarito\Exercicio 2 - Gabarito 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Gabarito\Exercício 2 - Gabarito 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Gabarito\Exercício 2 - Gabarito 3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Soma de números pares em sequências.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Tabuada.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Primos.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Triângulo Retângulo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Média.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Valor da soma.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\021\Arredondar.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\021\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\021\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\021\Três Números.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Maior e menor Temp.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Media de alunos por turma.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\023\Brincando.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\023\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\023\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\023\Área Círculo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\024\5 mais importantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\024\Exercícios\Exercicio 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\024\Gabarito\Exercicio 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\024\Quebrando a Banca.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Append.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Exercício\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Exercício\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\028\Dados.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\028\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\028\Função len e método Count.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\028\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Média maior que sete.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\brincando.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Mini Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Remove.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Reverse.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\031\Método Index.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\031\Método Insert.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\031\Método pop.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\031\Método sort.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Exercícios\Exercício Megasena 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Exercícios\Exercício Megasena 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Exercícios\Exercício Megasena 3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Gabarito\Exercício Megasena 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Gabarito\Exercício Megasena 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Gabarito\Exercício Megasena 3 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Simulador Megasena.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exemplos\Exemplo 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exemplos\Exemplo 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exemplos\Exemplo 3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exemplos\Exemplo 4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Função - Construção.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Funções - Exemplos.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\034\Exemplo 3 - Tuplas.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Gabaritos\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Gabaritos\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Peso de provas.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Soma.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\036\Bancário.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\036\Exemplo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Constrói Matriz.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Desafio\Desafio - Jogo dos Números.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Gera matriz.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Resolução\Desafio - Jogo dos Números - Solução.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Troca elemento matriz.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\038\Atribuição de Função.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\038\Mesmos nomes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\038\Tudo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Fatorial.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Passada.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Expoente.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Lista de comida.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\042\Bagels - Obj.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\042\CABEÇALHO.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\042\pedro_func.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\042\seu_ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Forma Lista.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Soma Lista.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Refazendo o Exercício.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\045\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\045\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\045\Imprimir ao lado do outro.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\045\abc.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\046\Exercícios\Exercício.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\046\Formatação de Saída.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\046\Gabarito\Exercício - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Comparação String.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Converte String.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Exercícios\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Nome e Senha.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Tabela ASCII.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\048Isalfa\Cifra de Cesar - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\048Isalfa\Cifra de Cesar.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\048Isalfa\islower, isupper e isalpha.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\048Isalfa\split e rsplit.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\049\Forca - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\049\Forca.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\049\startswith.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\050\Find e Index.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\050\count.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\050\replace.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\051\Brincando.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\051\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\051\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\052\Jogo - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\052\Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\053\Encontra Palavras - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\053\Encontra Palavras.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\053\auxiliar.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\055\Exercícios\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\055\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\056\get.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\056\items, keys, values.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\057\Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\057\Luta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Exercício\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Exercício\Exercício 2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Exercício\Exercício 3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Gabarito\Exercício 2 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Gabarito\Exercício 3 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\060\Exercício\Exercício 1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\060\Gabarito\Exercício 1 - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\062\Exercício - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\062\Exercício.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\063\Exercício - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\063\Exercício.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\066\Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\066\Lutas\MinhaLuta\Luta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\067\arquivo_erro.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\067\teste.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\068\Adivinha numero - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\068\Advinha numero.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\068\teste.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\069\Adivinha numeroB - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\069\Adivinha numeroB.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\070\Assert.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\073\Teste.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\075\Exercício - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\075\Exercício.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\076\Exercício - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\076\Exercício.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\077\Gabarito\Jogo - Gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\077\Gabarito\Luta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\077\Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\077\Luta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\Luta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\Personagem.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\inimigo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\player.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Luta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Personagem.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\inimigo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\player.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\Luta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\Personagem.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\inimigo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\player.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Luta.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Personagem.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\inimigo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\player.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\081\comp_lista.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\081\ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\081\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\Filter.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\Map.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\Zip.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\exs\ex_filter.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\exs\ex_map.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\exs\ex_zip.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\gabs\ex_filter_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\gabs\ex_map_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\gabs\ex_zip_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\all.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\any.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\exs\ex_all.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\exs\ex_any.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\exs\ex_reduce.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\exs\ex_sum.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\gabs\ex_all_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\gabs\ex_any_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\gabs\ex_reduce_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\gabs\ex_sum_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\reduce.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\sum.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\084\8rainhas.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\084\8rainhas_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\085\ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\085\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\086\Quadrados.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\086\ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\086\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\087\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\087\t.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\088\brincando.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\088\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\088\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\088\ola_mundo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\089\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\089\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\090\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\090\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\091\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\091\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\092\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\092\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\093\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\093\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\094\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\094\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\094\final\calc_est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\094\final\est.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\095\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\095\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\095\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\095\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\ex\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\ex\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\jogo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\jogo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\ex\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\ex\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\ex\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\jogo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\jogo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\jogo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\jogo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\099\jogo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\099\jogo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\bola.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\objeto.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\retangulo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app5.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\ex_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\bola.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\objeto.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\retangulo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app5.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app6.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app7.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\grid.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\bola.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\objeto.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\retangulo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\mouse.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\Time.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app5.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app6.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app7.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app8.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\bola.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\objeto.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\retangulo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\Winsound.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\Imagens\__init__.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\__init__.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app5.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app6.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app7.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app8.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app9.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\bola.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\objeto.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\retangulo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\105.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\Imagens\__init__.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app5.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app6.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app7.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app8.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app9.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\constantes\constantes.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\objetos\bola.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\objetos\objeto.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\objetos\retangulo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\play.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\principal\jogo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\106\106.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\107.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app1\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app2\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app3\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app4\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app5\app5.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app6\app6.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app7\app7.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app8\app8.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app9\app9.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\108.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app1\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app2\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app3\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app4\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app5\app5.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app6\app6.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app7\app7.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app8\app8.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app9\app9.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\instalador.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\109.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\app.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app1\app1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app2\app2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app3\app3.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app4\app4.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app5\app5.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app6\app6.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app7\app7.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app8\app8.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app9\app9.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\instalador.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\110.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\110b.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\ex\aleatorio.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\ex\arruma.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\ex\ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\ex\play.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\interect.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\111.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\escreve.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\aleatorio.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\arruma.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\maximo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\play.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\recebe.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\112\112.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\113\113.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\113\ex\ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\113\ex\gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\113\ex\rec.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\114\114.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\114\hello-2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\114\hello.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\115\ex\instalador.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\115\fib.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\116\116.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\116\criptografa.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\116\desafio.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\116\descriptografa.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\117\117.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\118\118.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\119\119.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\120\120.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\121\121.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\122\122.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\123\123.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\124\124.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\124\calendario.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\124\horario.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\124\relogio.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\125\125.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\126\126.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\126\ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\126\gabarito.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\127\127.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\127\com_classe.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\128.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\ex\ex1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\ex\ex2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\gabarito\ex1_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\gabarito\ex2_gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\129.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\filho.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\indp.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\teste.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\teste2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\130.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\ex\ex.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\gabarito\cronometra.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\gabarito\gab.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\gabarito\gera.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\gabarito\normal.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\hello_thread.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\hello_threading.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\poder.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\travar.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\travar_sair.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\131\131.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\131\fila.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\131\fila_threading.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\132\132.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\132\anonimo.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\132\nomeado.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\133.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\event.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\filho.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\mult.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\outros.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\pipe.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\pool.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\queue.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\134.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\ex\ex1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\ex\ex2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\gab\gab1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\gab\gab2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\135.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\base_cliente.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\base_server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\ex\chat_cliente.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\ex\chat_server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\136.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\ex\cliente.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\ex\server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\mult_cliente.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\mult_server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\select_server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\socket_server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\137\137.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\137\UDP_cliente.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\137\UDP_server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\138\138.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\138\com_headers.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\139.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\ftp_console.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\ftp_download.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\ftp_download_org.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\ftp_upload.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\140\140.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\140\mailconfig.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\140\pop.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\140\smtp.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\141\141.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\141\http_test.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\141\nntp.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\142\142.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\142\cgi-bin\cgi1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\142\html\index.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\142\http-server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi2_imagem.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi3_css.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi4_css_2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi5_tabela.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\css\estilo1.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\html\index.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\http-server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\cgi-bin\fetch_page.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\cgi-bin\recebe.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\starter-template.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\contato.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\feet.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\head.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\navbar.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\sobre.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\http-server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\index.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\js\bootstrap.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\js\bootstrap.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\js\npm.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi2_imagem.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi3_css.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi4_css_2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi5_tabela.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi6_cookies.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi7_morsel.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\fetch_page.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\menu.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\recebe.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\estilo1.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\starter-template.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\contato.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\feet.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\head.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\navbar.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\sobre.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\http-server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\index.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\js\bootstrap.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\js\bootstrap.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\js\npm.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi2_imagem.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi3_css.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi4_css_2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi5_tabela.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi6_cookies.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi7_morsel.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi8_upload.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi9_download.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\download.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\download_fisico.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\fetch_page.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\menu.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\recebe.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\save_file.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\estilo1.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\starter-template.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\contato.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\feet.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\head.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\navbar.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\sobre.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\http-server.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\index.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\js\bootstrap.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\js\bootstrap.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\js\npm.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\Download.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\Login.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\MudaSenha.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\Sair.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\Upload.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\path_link.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\CookieManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\MicrosoftManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\MySQLManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\OracleManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\PostgresManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\SQLManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\SQLiteManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\SessionManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\estilo1.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\login.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\registrar.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\starter-template.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\styles.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\Primeiro.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi2_imagem.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi3_css.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi4_css_2.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi5_tabela.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi6_cookies.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi7_morsel.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi8_upload.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi9_download.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\download.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\download_fisico.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\save_file.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\pedro\cgi1.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\fetch_page.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\functions\char_functions.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\functions\form_functions.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\ie10-viewport-bug-workaround.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\jumbotron.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\bootstrap.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\bootstrap.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\ie-emulation-modes-warning.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\ie8-responsive-file-warning.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\jquery-1.12.0.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\npm.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\index.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\js\login.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\login.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\contato.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\download.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\inicial.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\log_acessos.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\menu.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\mudar_senha.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\path_link.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\sobre.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\upload.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\template\footer.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\template\head.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\template\table_body.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\template\table_navigation.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\test.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\150\Gabarito\SQLManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\150\SQLManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Gabarito\MySQLManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\Login.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\MySQLManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\SQLManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\estilo1.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\login.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\registrar.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\starter-template.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\styles.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\form_functions.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\ie10-viewport-bug-workaround.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\jumbotron.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\bootstrap.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\bootstrap.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\ie-emulation-modes-warning.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\ie8-responsive-file-warning.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\jquery-1.12.0.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\npm.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\index.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\js\login.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Download.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Login.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\MudaSenha.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\Login.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\SQLManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\SQLiteManager.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\estilo1.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\login.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\registrar.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\starter-template.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\styles.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\database_creation\SQLiteCreation.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\database_creation\SQLiteTeste.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\form_functions.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap-theme.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap-theme.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap.min.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\ie10-viewport-bug-workaround.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\jumbotron.css
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\bootstrap.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\bootstrap.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\ie-emulation-modes-warning.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\ie8-responsive-file-warning.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\jquery-1.12.0.min.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\npm.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\index.html
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\js\login.js
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Upload.py
+Ignorância Zero\Aulas Python\Conteúdo das Aulas\remove.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.1 - Quadrados de números terminados em zero.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.10 - Números Triangulares.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.11 - Números Primos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.12 - MDC Euclides.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.13 - Números Perfeitos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.14 - Sequência de Finobocci.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.15 - Números Congruentes.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.16 - Transformar Binário para Normal.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.17 - Transformar em número binário.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.18 - Triângulos Retângulos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.19 - Números Crescentes.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.2 - Soma de n positivos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.20 - Soma das Dezenas ao Quadrado.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.21 - Segmentos em Sequências.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.22 - Segmentos Crescentes.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.23 - Números Palíndromes.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.24 - Subnúmeros.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.3 - Números ímpares.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.4 - Calculadora de Expoentes.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.5 - Loja de Discos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.6 - Alunos de Recuperação.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.7 - Soma de Números Pares.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.8 - n!.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.9 - n Multiplos de i ou j.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.1 - Soma de números pares em sequências.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.2 - Hipotenusas de Triângulos retângulos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.3 - Maior Valor para a Equação.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.4 - Soma de Números Primos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.5 - Soma de números ímpares para n ao cubo.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.6 - Multiplicidade de raízes de um número.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.7 - MDC de uma sequência.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.1 - Calculo do montante mensal.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.10 - Valor de uma soma bizarra.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.11 - Soma de 1 a 1 dividido 10000.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.12 - Tamanho de Uauá e NY.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.2 - Números Harmônicos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.3 - x,y pertencentes a H.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.4 - Pontos em H.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.5 - Raízes.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.6 - Cosseno.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.7 - Seno.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.8 - Media da sala e aprovados e reprovados.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.9 - Operações com triplas.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.1.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.2.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.4.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.5.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.6.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.1.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.2.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.6.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.1 - Imprimir na Ordem Inversa.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.10 - Valor do p(x) para diferentes x.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.11 - Coeficientes da Derivada do polinômio.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.12 - Obter q(x) por Briot-Ruffini.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.13 - Produtos de Polinômios.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.15 - Média do aluno e da classe para provas de diferentes pesos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.16 - Segmento Repetido.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.17 - Maior segmento na Sequência.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.2 - Número de Acertos na Prova.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.3 - Número de ocorrência de cada face do dado.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.4 - Produto Escalar de Vetores.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.5 - Raios de Circunferências.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.7 - Número de ocorrências de um elemento da sequência.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.8 - Sequência única, sem repetições.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.9 - Soma de duas Sequências.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.1 e 7.2 - Produto de Matrizes.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.3 - Solução do Sistema.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.4 - Há repetidos ou não.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.5 - Matriz de Permutaçao.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.6 - Linhas e colunas nulas.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.7 - Quadrado Mágico.py
+Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.8 - Pascal.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Jogo da Velha - Tinkter\Jogo da Velha.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Leitor de Versículos\versiculos.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 1.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 10.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 11.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 12.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 13.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 14.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 15.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 16.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 17.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 18.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 2.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 3.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 4.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 5.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 6.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 7.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 8.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 9.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 11.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 12.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 13.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 16.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 19.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 20.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 21.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 22.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 23.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 27.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 3.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 5.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 6.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 7.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 8.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 9.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 1.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 10.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 11.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 12.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 13.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 14.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 15.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 16.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 17.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 18.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 19.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 20.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 21.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 22.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 24.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 25.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 26.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 27.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 28.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 29.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 30.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 31.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 33.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 34.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 35.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 36.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 37.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 38.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 39.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 4.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 40.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 42.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 43.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 44.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 48.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 49.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 50.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 51.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 52.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 7.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 9.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Universidade Federal da Bahia\ex.py
+Ignorância Zero\Aulas Python\Exercícios Extras\Universidade Federal da Bahia\ex2.py
+h51arquivos\EX-relatorio\Exercício 1.py
+h51arquivos\Modos_de_abertura.py

@@ -1,0 +1,8 @@
+CookieManager.py
+MicrosoftManager.py
+MySQLManager.py
+OracleManager.py
+PostgresManager.py
+SQLManager.py
+SQLiteManager.py
+SessionManager.py

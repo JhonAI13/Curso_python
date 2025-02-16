@@ -1,0 +1,12 @@
+109.py
+ex\aplicativo\app.py
+ex\aplicativo\apps\app1\app1.py
+ex\aplicativo\apps\app2\app2.py
+ex\aplicativo\apps\app3\app3.py
+ex\aplicativo\apps\app4\app4.py
+ex\aplicativo\apps\app5\app5.py
+ex\aplicativo\apps\app6\app6.py
+ex\aplicativo\apps\app7\app7.py
+ex\aplicativo\apps\app8\app8.py
+ex\aplicativo\apps\app9\app9.py
+ex\instalador.py

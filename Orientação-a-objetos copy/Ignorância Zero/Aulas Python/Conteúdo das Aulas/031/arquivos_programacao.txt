@@ -1,0 +1,4 @@
+Método Index.py
+Método Insert.py
+Método pop.py
+Método sort.py

@@ -1,0 +1,11 @@
+130.py
+ex\ex.py
+gabarito\cronometra.py
+gabarito\gab.py
+gabarito\gera.py
+gabarito\normal.py
+hello_thread.py
+hello_threading.py
+poder.py
+travar.py
+travar_sair.py

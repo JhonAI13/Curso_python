@@ -1,0 +1,961 @@
+Conteúdo das Aulas\002\Primeiro.py
+Conteúdo das Aulas\003\Print.py
+Conteúdo das Aulas\004\Comentario.py
+Conteúdo das Aulas\005\Variavel.py
+Conteúdo das Aulas\006\Exercício 1.py
+Conteúdo das Aulas\006\Exercício 2.py
+Conteúdo das Aulas\006\Gabarito\Exercício 1 - Resposta.py
+Conteúdo das Aulas\006\Gabarito\Exercício 2 - Resposta.py
+Conteúdo das Aulas\006\Soma.py
+Conteúdo das Aulas\007\Cachorros.py
+Conteúdo das Aulas\007\Exercicio 1.py
+Conteúdo das Aulas\007\Exercicio 2.py
+Conteúdo das Aulas\007\Gabarito\Exercicio 1 - Gabarito.py
+Conteúdo das Aulas\007\Gabarito\Exercicio 2 - Gabarito.py
+Conteúdo das Aulas\007\Operações.py
+Conteúdo das Aulas\008\Balada.py
+Conteúdo das Aulas\009\Balada2.py
+Conteúdo das Aulas\009\Exercícios\Exercício 1.py
+Conteúdo das Aulas\009\Exercícios\Exercício 2.py
+Conteúdo das Aulas\009\Gabarito\Gabarito - Exercício 1.py
+Conteúdo das Aulas\009\Gabarito\Gabarito - Exercício 2.py
+Conteúdo das Aulas\009\Loja de Tintas.py
+Conteúdo das Aulas\009\Maior.py
+Conteúdo das Aulas\010\Comparaçoes Multiplas.py
+Conteúdo das Aulas\010\Exercicios\Exercício 1.py
+Conteúdo das Aulas\010\Gabarito\Gabarito - Exercício 1.py
+Conteúdo das Aulas\011\Dia da Semana.py
+Conteúdo das Aulas\011\Exercício\Exercicio 1.py
+Conteúdo das Aulas\011\Exercício\Exercicio 2.py
+Conteúdo das Aulas\011\Gabarito\Gabarito - Exercicio 1.py
+Conteúdo das Aulas\011\Gabarito\Gabarito - Exercicio 2.py
+Conteúdo das Aulas\011\Ordem Decrescente.py
+Conteúdo das Aulas\011\teste.py
+Conteúdo das Aulas\013\Exercicios\Exercicio 1.py
+Conteúdo das Aulas\013\Exercicios\Exercicio 2.py
+Conteúdo das Aulas\013\Gabarito\Gabarito - Exercicio 1.py
+Conteúdo das Aulas\013\Gabarito\Gabarito - Exercicio 2.py
+Conteúdo das Aulas\013\Potência.py
+Conteúdo das Aulas\013\Quadrados de números terminados em zero.py
+Conteúdo das Aulas\013\While Loop.py
+Conteúdo das Aulas\013\n!.py
+Conteúdo das Aulas\014\Balança de Empresas.py
+Conteúdo das Aulas\014\Nested while loop.py
+Conteúdo das Aulas\015\Exercicios\Exercicio 1.py
+Conteúdo das Aulas\015\Exercicios\Exercicio 2.py
+Conteúdo das Aulas\015\Gabarito\Gabarito - Exercicio 1.py
+Conteúdo das Aulas\015\Gabarito\Gabarito - Exercicio 2.py
+Conteúdo das Aulas\015\Idade.py
+Conteúdo das Aulas\015\Numeros Procurados.py
+Conteúdo das Aulas\016\Números Palíndromes.py
+Conteúdo das Aulas\016\Segmentos Crescentes.py
+Conteúdo das Aulas\016\Segmentos em Sequências.py
+Conteúdo das Aulas\016\Soma das Dezenas ao Quadrado.py
+Conteúdo das Aulas\016\Subnúmeros - Solução 1.py
+Conteúdo das Aulas\016\Subnúmeros - Solução 2.py
+Conteúdo das Aulas\016\Subnúmeros.py
+Conteúdo das Aulas\017\Brincando.py
+Conteúdo das Aulas\017\Exercicios\Exercicio 1.py
+Conteúdo das Aulas\017\Fatorial.py
+Conteúdo das Aulas\017\Gabarito\Exercicio 1 - Gabarito.py
+Conteúdo das Aulas\017\Numeros Triangulares.py
+Conteúdo das Aulas\018\Brincando.py
+Conteúdo das Aulas\018\Exercicio\Exercicio 2.py
+Conteúdo das Aulas\018\Exercicio\Exercício 1.py
+Conteúdo das Aulas\018\Gabarito\Exercicio 2 - Gabarito 1.py
+Conteúdo das Aulas\018\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\018\Gabarito\Exercício 2 - Gabarito 2.py
+Conteúdo das Aulas\018\Gabarito\Exercício 2 - Gabarito 3.py
+Conteúdo das Aulas\018\Soma de números pares em sequências.py
+Conteúdo das Aulas\018\Tabuada.py
+Conteúdo das Aulas\019\Exercícios\Exercício 1.py
+Conteúdo das Aulas\019\Exercícios\Exercício 2.py
+Conteúdo das Aulas\019\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\019\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\019\Primos.py
+Conteúdo das Aulas\019\Triângulo Retângulo.py
+Conteúdo das Aulas\020\Exercícios\Exercício 1.py
+Conteúdo das Aulas\020\Exercícios\Exercício 2.py
+Conteúdo das Aulas\020\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\020\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\020\Média.py
+Conteúdo das Aulas\020\Valor da soma.py
+Conteúdo das Aulas\021\Arredondar.py
+Conteúdo das Aulas\021\Exercícios\Exercício 1.py
+Conteúdo das Aulas\021\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\021\Três Números.py
+Conteúdo das Aulas\022\Exercícios\Exercício 1.py
+Conteúdo das Aulas\022\Exercícios\Exercício 2.py
+Conteúdo das Aulas\022\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\022\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\022\Maior e menor Temp.py
+Conteúdo das Aulas\022\Media de alunos por turma.py
+Conteúdo das Aulas\023\Brincando.py
+Conteúdo das Aulas\023\Exercícios\Exercício 1.py
+Conteúdo das Aulas\023\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\023\Área Círculo.py
+Conteúdo das Aulas\024\5 mais importantes.py
+Conteúdo das Aulas\024\Exercícios\Exercicio 1.py
+Conteúdo das Aulas\024\Gabarito\Exercicio 1 - Gabarito.py
+Conteúdo das Aulas\024\Quebrando a Banca.py
+Conteúdo das Aulas\026\Append.py
+Conteúdo das Aulas\026\Exercício\Exercício 1.py
+Conteúdo das Aulas\026\Exercício\Exercício 2.py
+Conteúdo das Aulas\026\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\026\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\028\Dados.py
+Conteúdo das Aulas\028\Exercícios\Exercício 1.py
+Conteúdo das Aulas\028\Função len e método Count.py
+Conteúdo das Aulas\028\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\029\Exercícios\Exercício 1.py
+Conteúdo das Aulas\029\Exercícios\Exercício 2.py
+Conteúdo das Aulas\029\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\029\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\029\Média maior que sete.py
+Conteúdo das Aulas\029\brincando.py
+Conteúdo das Aulas\030\Exercícios\Exercício 1.py
+Conteúdo das Aulas\030\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\030\Mini Jogo.py
+Conteúdo das Aulas\030\Remove.py
+Conteúdo das Aulas\030\Reverse.py
+Conteúdo das Aulas\031\Método Index.py
+Conteúdo das Aulas\031\Método Insert.py
+Conteúdo das Aulas\031\Método pop.py
+Conteúdo das Aulas\031\Método sort.py
+Conteúdo das Aulas\032\Exercícios\Exercício Megasena 1.py
+Conteúdo das Aulas\032\Exercícios\Exercício Megasena 2.py
+Conteúdo das Aulas\032\Exercícios\Exercício Megasena 3.py
+Conteúdo das Aulas\032\Gabarito\Exercício Megasena 1 - Gabarito.py
+Conteúdo das Aulas\032\Gabarito\Exercício Megasena 2 - Gabarito.py
+Conteúdo das Aulas\032\Gabarito\Exercício Megasena 3 - Gabarito.py
+Conteúdo das Aulas\032\Simulador Megasena.py
+Conteúdo das Aulas\033\Exemplos\Exemplo 1.py
+Conteúdo das Aulas\033\Exemplos\Exemplo 2.py
+Conteúdo das Aulas\033\Exemplos\Exemplo 3.py
+Conteúdo das Aulas\033\Exemplos\Exemplo 4.py
+Conteúdo das Aulas\033\Exercícios\Exercício 1.py
+Conteúdo das Aulas\033\Exercícios\Exercício 2.py
+Conteúdo das Aulas\033\Função - Construção.py
+Conteúdo das Aulas\033\Funções - Exemplos.py
+Conteúdo das Aulas\033\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\033\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\034\Exemplo 3 - Tuplas.py
+Conteúdo das Aulas\035\Exercícios\Exercício 1.py
+Conteúdo das Aulas\035\Exercícios\Exercício 2.py
+Conteúdo das Aulas\035\Gabaritos\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\035\Gabaritos\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\035\Peso de provas.py
+Conteúdo das Aulas\035\Soma.py
+Conteúdo das Aulas\036\Bancário.py
+Conteúdo das Aulas\036\Exemplo.py
+Conteúdo das Aulas\037\Constrói Matriz.py
+Conteúdo das Aulas\037\Desafio\Desafio - Jogo dos Números.py
+Conteúdo das Aulas\037\Gera matriz.py
+Conteúdo das Aulas\037\Resolução\Desafio - Jogo dos Números - Solução.py
+Conteúdo das Aulas\037\Troca elemento matriz.py
+Conteúdo das Aulas\038\Atribuição de Função.py
+Conteúdo das Aulas\038\Mesmos nomes.py
+Conteúdo das Aulas\038\Tudo.py
+Conteúdo das Aulas\039\Exercícios\Exercício 1.py
+Conteúdo das Aulas\039\Exercícios\Exercício 2.py
+Conteúdo das Aulas\039\Fatorial.py
+Conteúdo das Aulas\039\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\039\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\039\Passada.py
+Conteúdo das Aulas\040\Exercícios\Exercício 1.py
+Conteúdo das Aulas\040\Exercícios\Exercício 2.py
+Conteúdo das Aulas\040\Expoente.py
+Conteúdo das Aulas\040\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\040\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\040\Lista de comida.py
+Conteúdo das Aulas\042\Bagels - Obj.py
+Conteúdo das Aulas\042\CABEÇALHO.py
+Conteúdo das Aulas\042\pedro_func.py
+Conteúdo das Aulas\042\seu_ex.py
+Conteúdo das Aulas\043\Exercícios\Exercício 1.py
+Conteúdo das Aulas\043\Exercícios\Exercício 2.py
+Conteúdo das Aulas\043\Forma Lista.py
+Conteúdo das Aulas\043\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\043\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\043\Soma Lista.py
+Conteúdo das Aulas\044\Exercícios\Exercício 1.py
+Conteúdo das Aulas\044\Exercícios\Exercício 2.py
+Conteúdo das Aulas\044\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\044\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\044\Refazendo o Exercício.py
+Conteúdo das Aulas\045\Exercícios\Exercício 1.py
+Conteúdo das Aulas\045\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\045\Imprimir ao lado do outro.py
+Conteúdo das Aulas\045\abc.py
+Conteúdo das Aulas\046\Exercícios\Exercício.py
+Conteúdo das Aulas\046\Formatação de Saída.py
+Conteúdo das Aulas\046\Gabarito\Exercício - Gabarito.py
+Conteúdo das Aulas\047\Comparação String.py
+Conteúdo das Aulas\047\Converte String.py
+Conteúdo das Aulas\047\Exercícios\Exercício 1.py
+Conteúdo das Aulas\047\Exercícios\Exercício 2.py
+Conteúdo das Aulas\047\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\047\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\047\Nome e Senha.py
+Conteúdo das Aulas\047\Tabela ASCII.py
+Conteúdo das Aulas\048Isalfa\Cifra de Cesar - Gabarito.py
+Conteúdo das Aulas\048Isalfa\Cifra de Cesar.py
+Conteúdo das Aulas\048Isalfa\islower, isupper e isalpha.py
+Conteúdo das Aulas\048Isalfa\split e rsplit.py
+Conteúdo das Aulas\049\Forca - Gabarito.py
+Conteúdo das Aulas\049\Forca.py
+Conteúdo das Aulas\049\startswith.py
+Conteúdo das Aulas\050\Find e Index.py
+Conteúdo das Aulas\050\count.py
+Conteúdo das Aulas\050\replace.py
+Conteúdo das Aulas\051\Brincando.py
+Conteúdo das Aulas\051\Exercícios\Exercício 1.py
+Conteúdo das Aulas\051\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\052\Jogo - Gabarito.py
+Conteúdo das Aulas\052\Jogo.py
+Conteúdo das Aulas\053\Encontra Palavras - Gabarito.py
+Conteúdo das Aulas\053\Encontra Palavras.py
+Conteúdo das Aulas\053\auxiliar.py
+Conteúdo das Aulas\055\Exercícios\Exercício 1.py
+Conteúdo das Aulas\055\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\056\get.py
+Conteúdo das Aulas\056\items, keys, values.py
+Conteúdo das Aulas\057\Jogo.py
+Conteúdo das Aulas\057\Luta.py
+Conteúdo das Aulas\059\Exercício\Exercício 1.py
+Conteúdo das Aulas\059\Exercício\Exercício 2.py
+Conteúdo das Aulas\059\Exercício\Exercício 3.py
+Conteúdo das Aulas\059\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\059\Gabarito\Exercício 2 - Gabarito.py
+Conteúdo das Aulas\059\Gabarito\Exercício 3 - Gabarito.py
+Conteúdo das Aulas\060\Exercício\Exercício 1.py
+Conteúdo das Aulas\060\Gabarito\Exercício 1 - Gabarito.py
+Conteúdo das Aulas\062\Exercício - Gabarito.py
+Conteúdo das Aulas\062\Exercício.py
+Conteúdo das Aulas\063\Exercício - Gabarito.py
+Conteúdo das Aulas\063\Exercício.py
+Conteúdo das Aulas\066\Jogo.py
+Conteúdo das Aulas\066\Lutas\MinhaLuta\Luta.py
+Conteúdo das Aulas\067\arquivo_erro.py
+Conteúdo das Aulas\067\teste.py
+Conteúdo das Aulas\068\Adivinha numero - Gabarito.py
+Conteúdo das Aulas\068\Advinha numero.py
+Conteúdo das Aulas\068\teste.py
+Conteúdo das Aulas\069\Adivinha numeroB - Gabarito.py
+Conteúdo das Aulas\069\Adivinha numeroB.py
+Conteúdo das Aulas\070\Assert.py
+Conteúdo das Aulas\073\Teste.py
+Conteúdo das Aulas\075\Exercício - Gabarito.py
+Conteúdo das Aulas\075\Exercício.py
+Conteúdo das Aulas\076\Exercício - Gabarito.py
+Conteúdo das Aulas\076\Exercício.py
+Conteúdo das Aulas\077\Gabarito\Jogo - Gabarito.py
+Conteúdo das Aulas\077\Gabarito\Luta.py
+Conteúdo das Aulas\077\Jogo.py
+Conteúdo das Aulas\077\Luta.py
+Conteúdo das Aulas\078\Gabarito\Jogo.py
+Conteúdo das Aulas\078\Gabarito\Luta.py
+Conteúdo das Aulas\078\Gabarito\Personagem.py
+Conteúdo das Aulas\078\Gabarito\inimigo.py
+Conteúdo das Aulas\078\Gabarito\player.py
+Conteúdo das Aulas\078\Jogo.py
+Conteúdo das Aulas\078\Luta.py
+Conteúdo das Aulas\078\Personagem.py
+Conteúdo das Aulas\078\inimigo.py
+Conteúdo das Aulas\078\player.py
+Conteúdo das Aulas\079\Gabarito\Jogo.py
+Conteúdo das Aulas\079\Gabarito\Luta.py
+Conteúdo das Aulas\079\Gabarito\Personagem.py
+Conteúdo das Aulas\079\Gabarito\inimigo.py
+Conteúdo das Aulas\079\Gabarito\player.py
+Conteúdo das Aulas\079\Jogo.py
+Conteúdo das Aulas\079\Luta.py
+Conteúdo das Aulas\079\Personagem.py
+Conteúdo das Aulas\079\inimigo.py
+Conteúdo das Aulas\079\player.py
+Conteúdo das Aulas\081\comp_lista.py
+Conteúdo das Aulas\081\ex.py
+Conteúdo das Aulas\081\ex_gab.py
+Conteúdo das Aulas\082\Filter.py
+Conteúdo das Aulas\082\Map.py
+Conteúdo das Aulas\082\Zip.py
+Conteúdo das Aulas\082\exs\ex_filter.py
+Conteúdo das Aulas\082\exs\ex_map.py
+Conteúdo das Aulas\082\exs\ex_zip.py
+Conteúdo das Aulas\082\gabs\ex_filter_gab.py
+Conteúdo das Aulas\082\gabs\ex_map_gab.py
+Conteúdo das Aulas\082\gabs\ex_zip_gab.py
+Conteúdo das Aulas\083\all.py
+Conteúdo das Aulas\083\any.py
+Conteúdo das Aulas\083\exs\ex_all.py
+Conteúdo das Aulas\083\exs\ex_any.py
+Conteúdo das Aulas\083\exs\ex_reduce.py
+Conteúdo das Aulas\083\exs\ex_sum.py
+Conteúdo das Aulas\083\gabs\ex_all_gab.py
+Conteúdo das Aulas\083\gabs\ex_any_gab.py
+Conteúdo das Aulas\083\gabs\ex_reduce_gab.py
+Conteúdo das Aulas\083\gabs\ex_sum_gab.py
+Conteúdo das Aulas\083\reduce.py
+Conteúdo das Aulas\083\sum.py
+Conteúdo das Aulas\084\8rainhas.py
+Conteúdo das Aulas\084\8rainhas_gab.py
+Conteúdo das Aulas\085\ex.py
+Conteúdo das Aulas\085\ex_gab.py
+Conteúdo das Aulas\086\Quadrados.py
+Conteúdo das Aulas\086\ex.py
+Conteúdo das Aulas\086\ex_gab.py
+Conteúdo das Aulas\087\calc_est.py
+Conteúdo das Aulas\087\t.py
+Conteúdo das Aulas\088\brincando.py
+Conteúdo das Aulas\088\calc_est.py
+Conteúdo das Aulas\088\ex_gab.py
+Conteúdo das Aulas\088\ola_mundo.py
+Conteúdo das Aulas\089\calc_est.py
+Conteúdo das Aulas\089\ex_gab.py
+Conteúdo das Aulas\090\calc_est.py
+Conteúdo das Aulas\090\ex_gab.py
+Conteúdo das Aulas\091\calc_est.py
+Conteúdo das Aulas\091\ex_gab.py
+Conteúdo das Aulas\092\calc_est.py
+Conteúdo das Aulas\092\ex_gab.py
+Conteúdo das Aulas\093\calc_est.py
+Conteúdo das Aulas\093\ex_gab.py
+Conteúdo das Aulas\094\calc_est.py
+Conteúdo das Aulas\094\ex_gab.py
+Conteúdo das Aulas\094\final\calc_est.py
+Conteúdo das Aulas\094\final\est.py
+Conteúdo das Aulas\095\app.py
+Conteúdo das Aulas\095\constantes.py
+Conteúdo das Aulas\095\ex_gab.py
+Conteúdo das Aulas\095\jogo.py
+Conteúdo das Aulas\096\ex\app.py
+Conteúdo das Aulas\096\ex\app1.py
+Conteúdo das Aulas\096\ex\ex_gab.py
+Conteúdo das Aulas\096\jogo\constantes.py
+Conteúdo das Aulas\096\jogo\jogo.py
+Conteúdo das Aulas\097\ex\app.py
+Conteúdo das Aulas\097\ex\app1.py
+Conteúdo das Aulas\097\ex\app2.py
+Conteúdo das Aulas\097\ex\ex_gab.py
+Conteúdo das Aulas\097\jogo\constantes.py
+Conteúdo das Aulas\097\jogo\jogo.py
+Conteúdo das Aulas\098\ex\app.py
+Conteúdo das Aulas\098\ex\app1.py
+Conteúdo das Aulas\098\ex\app2.py
+Conteúdo das Aulas\098\ex\app3.py
+Conteúdo das Aulas\098\ex\ex_gab.py
+Conteúdo das Aulas\098\jogo\constantes.py
+Conteúdo das Aulas\098\jogo\jogo.py
+Conteúdo das Aulas\099\jogo\constantes.py
+Conteúdo das Aulas\099\jogo\jogo.py
+Conteúdo das Aulas\100\ex\app.py
+Conteúdo das Aulas\100\ex\app1.py
+Conteúdo das Aulas\100\ex\app2.py
+Conteúdo das Aulas\100\ex\app3.py
+Conteúdo das Aulas\100\ex\app4.py
+Conteúdo das Aulas\100\ex\ex_gab.py
+Conteúdo das Aulas\100\jogo\bola.py
+Conteúdo das Aulas\100\jogo\constantes.py
+Conteúdo das Aulas\100\jogo\jogo.py
+Conteúdo das Aulas\100\jogo\objeto.py
+Conteúdo das Aulas\100\jogo\retangulo.py
+Conteúdo das Aulas\101\ex\app.py
+Conteúdo das Aulas\101\ex\app1.py
+Conteúdo das Aulas\101\ex\app2.py
+Conteúdo das Aulas\101\ex\app3.py
+Conteúdo das Aulas\101\ex\app4.py
+Conteúdo das Aulas\101\ex\app5.py
+Conteúdo das Aulas\101\ex\ex_gab.py
+Conteúdo das Aulas\101\jogo\bola.py
+Conteúdo das Aulas\101\jogo\constantes.py
+Conteúdo das Aulas\101\jogo\jogo.py
+Conteúdo das Aulas\101\jogo\objeto.py
+Conteúdo das Aulas\101\jogo\retangulo.py
+Conteúdo das Aulas\102\ex\app.py
+Conteúdo das Aulas\102\ex\app1.py
+Conteúdo das Aulas\102\ex\app2.py
+Conteúdo das Aulas\102\ex\app3.py
+Conteúdo das Aulas\102\ex\app4.py
+Conteúdo das Aulas\102\ex\app5.py
+Conteúdo das Aulas\102\ex\app6.py
+Conteúdo das Aulas\102\ex\app7.py
+Conteúdo das Aulas\102\grid.py
+Conteúdo das Aulas\102\jogo completo\bola.py
+Conteúdo das Aulas\102\jogo completo\constantes.py
+Conteúdo das Aulas\102\jogo completo\jogo.py
+Conteúdo das Aulas\102\jogo completo\objeto.py
+Conteúdo das Aulas\102\jogo completo\retangulo.py
+Conteúdo das Aulas\102\mouse.py
+Conteúdo das Aulas\103\Time.py
+Conteúdo das Aulas\103\ex\app.py
+Conteúdo das Aulas\103\ex\app1.py
+Conteúdo das Aulas\103\ex\app2.py
+Conteúdo das Aulas\103\ex\app3.py
+Conteúdo das Aulas\103\ex\app4.py
+Conteúdo das Aulas\103\ex\app5.py
+Conteúdo das Aulas\103\ex\app6.py
+Conteúdo das Aulas\103\ex\app7.py
+Conteúdo das Aulas\103\ex\app8.py
+Conteúdo das Aulas\103\jogo\bola.py
+Conteúdo das Aulas\103\jogo\constantes.py
+Conteúdo das Aulas\103\jogo\jogo.py
+Conteúdo das Aulas\103\jogo\objeto.py
+Conteúdo das Aulas\103\jogo\retangulo.py
+Conteúdo das Aulas\104\Winsound.py
+Conteúdo das Aulas\104\ex\Imagens\__init__.py
+Conteúdo das Aulas\104\ex\__init__.py
+Conteúdo das Aulas\104\ex\app.py
+Conteúdo das Aulas\104\ex\app1.py
+Conteúdo das Aulas\104\ex\app2.py
+Conteúdo das Aulas\104\ex\app3.py
+Conteúdo das Aulas\104\ex\app4.py
+Conteúdo das Aulas\104\ex\app5.py
+Conteúdo das Aulas\104\ex\app6.py
+Conteúdo das Aulas\104\ex\app7.py
+Conteúdo das Aulas\104\ex\app8.py
+Conteúdo das Aulas\104\ex\app9.py
+Conteúdo das Aulas\104\jogo\bola.py
+Conteúdo das Aulas\104\jogo\constantes.py
+Conteúdo das Aulas\104\jogo\jogo.py
+Conteúdo das Aulas\104\jogo\objeto.py
+Conteúdo das Aulas\104\jogo\retangulo.py
+Conteúdo das Aulas\105\105.py
+Conteúdo das Aulas\105\ex\Imagens\__init__.py
+Conteúdo das Aulas\105\ex\app.py
+Conteúdo das Aulas\105\ex\apps\app1.py
+Conteúdo das Aulas\105\ex\apps\app2.py
+Conteúdo das Aulas\105\ex\apps\app3.py
+Conteúdo das Aulas\105\ex\apps\app4.py
+Conteúdo das Aulas\105\ex\apps\app5.py
+Conteúdo das Aulas\105\ex\apps\app6.py
+Conteúdo das Aulas\105\ex\apps\app7.py
+Conteúdo das Aulas\105\ex\apps\app8.py
+Conteúdo das Aulas\105\ex\apps\app9.py
+Conteúdo das Aulas\105\jogo\constantes\constantes.py
+Conteúdo das Aulas\105\jogo\objetos\bola.py
+Conteúdo das Aulas\105\jogo\objetos\objeto.py
+Conteúdo das Aulas\105\jogo\objetos\retangulo.py
+Conteúdo das Aulas\105\jogo\play.py
+Conteúdo das Aulas\105\jogo\principal\jogo.py
+Conteúdo das Aulas\106\106.py
+Conteúdo das Aulas\107\107.py
+Conteúdo das Aulas\107\ex\app.py
+Conteúdo das Aulas\107\ex\apps\app1\app1.py
+Conteúdo das Aulas\107\ex\apps\app2\app2.py
+Conteúdo das Aulas\107\ex\apps\app3\app3.py
+Conteúdo das Aulas\107\ex\apps\app4\app4.py
+Conteúdo das Aulas\107\ex\apps\app5\app5.py
+Conteúdo das Aulas\107\ex\apps\app6\app6.py
+Conteúdo das Aulas\107\ex\apps\app7\app7.py
+Conteúdo das Aulas\107\ex\apps\app8\app8.py
+Conteúdo das Aulas\107\ex\apps\app9\app9.py
+Conteúdo das Aulas\108\108.py
+Conteúdo das Aulas\108\ex\aplicativo\app.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app1\app1.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app2\app2.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app3\app3.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app4\app4.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app5\app5.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app6\app6.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app7\app7.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app8\app8.py
+Conteúdo das Aulas\108\ex\aplicativo\apps\app9\app9.py
+Conteúdo das Aulas\108\ex\instalador.py
+Conteúdo das Aulas\109\109.py
+Conteúdo das Aulas\109\ex\aplicativo\app.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app1\app1.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app2\app2.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app3\app3.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app4\app4.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app5\app5.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app6\app6.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app7\app7.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app8\app8.py
+Conteúdo das Aulas\109\ex\aplicativo\apps\app9\app9.py
+Conteúdo das Aulas\109\ex\instalador.py
+Conteúdo das Aulas\110\110.py
+Conteúdo das Aulas\110\110b.py
+Conteúdo das Aulas\110\ex\aleatorio.py
+Conteúdo das Aulas\110\ex\arruma.py
+Conteúdo das Aulas\110\ex\ex.py
+Conteúdo das Aulas\110\ex\play.py
+Conteúdo das Aulas\110\interect.py
+Conteúdo das Aulas\111\111.py
+Conteúdo das Aulas\111\escreve.py
+Conteúdo das Aulas\111\ex\aleatorio.py
+Conteúdo das Aulas\111\ex\arruma.py
+Conteúdo das Aulas\111\ex\ex.py
+Conteúdo das Aulas\111\ex\maximo.py
+Conteúdo das Aulas\111\ex\play.py
+Conteúdo das Aulas\111\recebe.py
+Conteúdo das Aulas\112\112.py
+Conteúdo das Aulas\113\113.py
+Conteúdo das Aulas\113\ex\ex.py
+Conteúdo das Aulas\113\ex\gabarito.py
+Conteúdo das Aulas\113\ex\rec.py
+Conteúdo das Aulas\114\114.py
+Conteúdo das Aulas\114\hello-2.py
+Conteúdo das Aulas\114\hello.py
+Conteúdo das Aulas\115\ex\instalador.py
+Conteúdo das Aulas\115\fib.py
+Conteúdo das Aulas\116\116.py
+Conteúdo das Aulas\116\criptografa.py
+Conteúdo das Aulas\116\desafio.py
+Conteúdo das Aulas\116\descriptografa.py
+Conteúdo das Aulas\117\117.py
+Conteúdo das Aulas\118\118.py
+Conteúdo das Aulas\119\119.py
+Conteúdo das Aulas\120\120.py
+Conteúdo das Aulas\121\121.py
+Conteúdo das Aulas\122\122.py
+Conteúdo das Aulas\123\123.py
+Conteúdo das Aulas\124\124.py
+Conteúdo das Aulas\124\calendario.py
+Conteúdo das Aulas\124\horario.py
+Conteúdo das Aulas\124\relogio.py
+Conteúdo das Aulas\125\125.py
+Conteúdo das Aulas\126\126.py
+Conteúdo das Aulas\126\ex.py
+Conteúdo das Aulas\126\gabarito.py
+Conteúdo das Aulas\127\127.py
+Conteúdo das Aulas\127\com_classe.py
+Conteúdo das Aulas\128\128.py
+Conteúdo das Aulas\128\ex\ex1.py
+Conteúdo das Aulas\128\ex\ex2.py
+Conteúdo das Aulas\128\gabarito\ex1_gab.py
+Conteúdo das Aulas\128\gabarito\ex2_gab.py
+Conteúdo das Aulas\129\129.py
+Conteúdo das Aulas\129\filho.py
+Conteúdo das Aulas\129\indp.py
+Conteúdo das Aulas\129\teste.py
+Conteúdo das Aulas\129\teste2.py
+Conteúdo das Aulas\130\130.py
+Conteúdo das Aulas\130\ex\ex.py
+Conteúdo das Aulas\130\gabarito\cronometra.py
+Conteúdo das Aulas\130\gabarito\gab.py
+Conteúdo das Aulas\130\gabarito\gera.py
+Conteúdo das Aulas\130\gabarito\normal.py
+Conteúdo das Aulas\130\hello_thread.py
+Conteúdo das Aulas\130\hello_threading.py
+Conteúdo das Aulas\130\poder.py
+Conteúdo das Aulas\130\travar.py
+Conteúdo das Aulas\130\travar_sair.py
+Conteúdo das Aulas\131\131.py
+Conteúdo das Aulas\131\fila.py
+Conteúdo das Aulas\131\fila_threading.py
+Conteúdo das Aulas\132\132.py
+Conteúdo das Aulas\132\anonimo.py
+Conteúdo das Aulas\132\nomeado.py
+Conteúdo das Aulas\133\133.py
+Conteúdo das Aulas\133\event.py
+Conteúdo das Aulas\133\filho.py
+Conteúdo das Aulas\133\mult.py
+Conteúdo das Aulas\133\outros.py
+Conteúdo das Aulas\133\pipe.py
+Conteúdo das Aulas\133\pool.py
+Conteúdo das Aulas\133\queue.py
+Conteúdo das Aulas\134\134.py
+Conteúdo das Aulas\134\ex\ex1.py
+Conteúdo das Aulas\134\ex\ex2.py
+Conteúdo das Aulas\134\gab\gab1.py
+Conteúdo das Aulas\134\gab\gab2.py
+Conteúdo das Aulas\135\135.py
+Conteúdo das Aulas\135\base_cliente.py
+Conteúdo das Aulas\135\base_server.py
+Conteúdo das Aulas\135\ex\chat_cliente.py
+Conteúdo das Aulas\135\ex\chat_server.py
+Conteúdo das Aulas\136\136.py
+Conteúdo das Aulas\136\ex\cliente.py
+Conteúdo das Aulas\136\ex\server.py
+Conteúdo das Aulas\136\mult_cliente.py
+Conteúdo das Aulas\136\mult_server.py
+Conteúdo das Aulas\136\select_server.py
+Conteúdo das Aulas\136\socket_server.py
+Conteúdo das Aulas\137\137.py
+Conteúdo das Aulas\137\UDP_cliente.py
+Conteúdo das Aulas\137\UDP_server.py
+Conteúdo das Aulas\138\138.py
+Conteúdo das Aulas\138\com_headers.html
+Conteúdo das Aulas\139\139.py
+Conteúdo das Aulas\139\ftp_console.py
+Conteúdo das Aulas\139\ftp_download.py
+Conteúdo das Aulas\139\ftp_download_org.py
+Conteúdo das Aulas\139\ftp_upload.py
+Conteúdo das Aulas\140\140.py
+Conteúdo das Aulas\140\mailconfig.py
+Conteúdo das Aulas\140\pop.py
+Conteúdo das Aulas\140\smtp.py
+Conteúdo das Aulas\141\141.py
+Conteúdo das Aulas\141\http_test.py
+Conteúdo das Aulas\141\nntp.py
+Conteúdo das Aulas\142\142.py
+Conteúdo das Aulas\142\cgi-bin\cgi1.py
+Conteúdo das Aulas\142\html\index.html
+Conteúdo das Aulas\142\http-server.py
+Conteúdo das Aulas\143\cgi-bin\cgi1.py
+Conteúdo das Aulas\143\cgi-bin\cgi2_imagem.py
+Conteúdo das Aulas\143\cgi-bin\cgi3_css.py
+Conteúdo das Aulas\143\cgi-bin\cgi4_css_2.py
+Conteúdo das Aulas\143\cgi-bin\cgi5_tabela.py
+Conteúdo das Aulas\143\css\estilo1.css
+Conteúdo das Aulas\143\html\index.html
+Conteúdo das Aulas\143\http-server.py
+Conteúdo das Aulas\144\cgi-bin\fetch_page.py
+Conteúdo das Aulas\144\cgi-bin\recebe.py
+Conteúdo das Aulas\144\css\bootstrap-theme.css
+Conteúdo das Aulas\144\css\bootstrap-theme.min.css
+Conteúdo das Aulas\144\css\bootstrap.css
+Conteúdo das Aulas\144\css\bootstrap.min.css
+Conteúdo das Aulas\144\css\starter-template.css
+Conteúdo das Aulas\144\html\contato.html
+Conteúdo das Aulas\144\html\feet.html
+Conteúdo das Aulas\144\html\head.html
+Conteúdo das Aulas\144\html\navbar.html
+Conteúdo das Aulas\144\html\sobre.html
+Conteúdo das Aulas\144\http-server.py
+Conteúdo das Aulas\144\index.html
+Conteúdo das Aulas\144\js\bootstrap.js
+Conteúdo das Aulas\144\js\bootstrap.min.js
+Conteúdo das Aulas\144\js\npm.js
+Conteúdo das Aulas\145\cgi-bin\cgi1.py
+Conteúdo das Aulas\145\cgi-bin\cgi2_imagem.py
+Conteúdo das Aulas\145\cgi-bin\cgi3_css.py
+Conteúdo das Aulas\145\cgi-bin\cgi4_css_2.py
+Conteúdo das Aulas\145\cgi-bin\cgi5_tabela.py
+Conteúdo das Aulas\145\cgi-bin\cgi6_cookies.py
+Conteúdo das Aulas\145\cgi-bin\cgi7_morsel.py
+Conteúdo das Aulas\145\cgi-bin\fetch_page.py
+Conteúdo das Aulas\145\cgi-bin\menu.py
+Conteúdo das Aulas\145\cgi-bin\recebe.py
+Conteúdo das Aulas\145\css\bootstrap-theme.css
+Conteúdo das Aulas\145\css\bootstrap-theme.min.css
+Conteúdo das Aulas\145\css\bootstrap.css
+Conteúdo das Aulas\145\css\bootstrap.min.css
+Conteúdo das Aulas\145\css\estilo1.css
+Conteúdo das Aulas\145\css\starter-template.css
+Conteúdo das Aulas\145\html\contato.html
+Conteúdo das Aulas\145\html\feet.html
+Conteúdo das Aulas\145\html\head.html
+Conteúdo das Aulas\145\html\navbar.html
+Conteúdo das Aulas\145\html\sobre.html
+Conteúdo das Aulas\145\http-server.py
+Conteúdo das Aulas\145\index.html
+Conteúdo das Aulas\145\js\bootstrap.js
+Conteúdo das Aulas\145\js\bootstrap.min.js
+Conteúdo das Aulas\145\js\npm.js
+Conteúdo das Aulas\146\cgi-bin\cgi1.py
+Conteúdo das Aulas\146\cgi-bin\cgi2_imagem.py
+Conteúdo das Aulas\146\cgi-bin\cgi3_css.py
+Conteúdo das Aulas\146\cgi-bin\cgi4_css_2.py
+Conteúdo das Aulas\146\cgi-bin\cgi5_tabela.py
+Conteúdo das Aulas\146\cgi-bin\cgi6_cookies.py
+Conteúdo das Aulas\146\cgi-bin\cgi7_morsel.py
+Conteúdo das Aulas\146\cgi-bin\cgi8_upload.py
+Conteúdo das Aulas\146\cgi-bin\cgi9_download.py
+Conteúdo das Aulas\146\cgi-bin\download.py
+Conteúdo das Aulas\146\cgi-bin\download_fisico.py
+Conteúdo das Aulas\146\cgi-bin\fetch_page.py
+Conteúdo das Aulas\146\cgi-bin\menu.py
+Conteúdo das Aulas\146\cgi-bin\recebe.py
+Conteúdo das Aulas\146\cgi-bin\save_file.py
+Conteúdo das Aulas\146\css\bootstrap-theme.css
+Conteúdo das Aulas\146\css\bootstrap-theme.min.css
+Conteúdo das Aulas\146\css\bootstrap.css
+Conteúdo das Aulas\146\css\bootstrap.min.css
+Conteúdo das Aulas\146\css\estilo1.css
+Conteúdo das Aulas\146\css\starter-template.css
+Conteúdo das Aulas\146\html\contato.html
+Conteúdo das Aulas\146\html\feet.html
+Conteúdo das Aulas\146\html\head.html
+Conteúdo das Aulas\146\html\navbar.html
+Conteúdo das Aulas\146\html\sobre.html
+Conteúdo das Aulas\146\http-server.py
+Conteúdo das Aulas\146\index.html
+Conteúdo das Aulas\146\js\bootstrap.js
+Conteúdo das Aulas\146\js\bootstrap.min.js
+Conteúdo das Aulas\146\js\npm.js
+Conteúdo das Aulas\149\cgi-bin\Download.py
+Conteúdo das Aulas\149\cgi-bin\Login.py
+Conteúdo das Aulas\149\cgi-bin\MudaSenha.py
+Conteúdo das Aulas\149\cgi-bin\Sair.py
+Conteúdo das Aulas\149\cgi-bin\Upload.py
+Conteúdo das Aulas\149\cgi-bin\path_link.py
+Conteúdo das Aulas\149\classes\CookieManager.py
+Conteúdo das Aulas\149\classes\MicrosoftManager.py
+Conteúdo das Aulas\149\classes\MySQLManager.py
+Conteúdo das Aulas\149\classes\OracleManager.py
+Conteúdo das Aulas\149\classes\PostgresManager.py
+Conteúdo das Aulas\149\classes\SQLManager.py
+Conteúdo das Aulas\149\classes\SQLiteManager.py
+Conteúdo das Aulas\149\classes\SessionManager.py
+Conteúdo das Aulas\149\css\bootstrap-theme.css
+Conteúdo das Aulas\149\css\bootstrap-theme.min.css
+Conteúdo das Aulas\149\css\bootstrap.css
+Conteúdo das Aulas\149\css\bootstrap.min.css
+Conteúdo das Aulas\149\css\estilo1.css
+Conteúdo das Aulas\149\css\login.css
+Conteúdo das Aulas\149\css\registrar.css
+Conteúdo das Aulas\149\css\starter-template.css
+Conteúdo das Aulas\149\css\styles.css
+Conteúdo das Aulas\149\data\admin\Primeiro.py
+Conteúdo das Aulas\149\data\admin\cgi1.py
+Conteúdo das Aulas\149\data\admin\cgi2_imagem.py
+Conteúdo das Aulas\149\data\admin\cgi3_css.py
+Conteúdo das Aulas\149\data\admin\cgi4_css_2.py
+Conteúdo das Aulas\149\data\admin\cgi5_tabela.py
+Conteúdo das Aulas\149\data\admin\cgi6_cookies.py
+Conteúdo das Aulas\149\data\admin\cgi7_morsel.py
+Conteúdo das Aulas\149\data\admin\cgi8_upload.py
+Conteúdo das Aulas\149\data\admin\cgi9_download.py
+Conteúdo das Aulas\149\data\admin\download.py
+Conteúdo das Aulas\149\data\admin\download_fisico.py
+Conteúdo das Aulas\149\data\admin\save_file.py
+Conteúdo das Aulas\149\data\pedro\cgi1.py
+Conteúdo das Aulas\149\fetch_page.py
+Conteúdo das Aulas\149\functions\char_functions.py
+Conteúdo das Aulas\149\functions\form_functions.py
+Conteúdo das Aulas\149\includes\css\bootstrap-theme.css
+Conteúdo das Aulas\149\includes\css\bootstrap-theme.min.css
+Conteúdo das Aulas\149\includes\css\bootstrap.css
+Conteúdo das Aulas\149\includes\css\bootstrap.min.css
+Conteúdo das Aulas\149\includes\css\ie10-viewport-bug-workaround.css
+Conteúdo das Aulas\149\includes\css\jumbotron.css
+Conteúdo das Aulas\149\includes\js\bootstrap.js
+Conteúdo das Aulas\149\includes\js\bootstrap.min.js
+Conteúdo das Aulas\149\includes\js\ie-emulation-modes-warning.js
+Conteúdo das Aulas\149\includes\js\ie8-responsive-file-warning.js
+Conteúdo das Aulas\149\includes\js\jquery-1.12.0.min.js
+Conteúdo das Aulas\149\includes\js\npm.js
+Conteúdo das Aulas\149\index.html
+Conteúdo das Aulas\149\js\login.js
+Conteúdo das Aulas\149\login.py
+Conteúdo das Aulas\149\pages\contato.py
+Conteúdo das Aulas\149\pages\download.py
+Conteúdo das Aulas\149\pages\inicial.py
+Conteúdo das Aulas\149\pages\log_acessos.py
+Conteúdo das Aulas\149\pages\menu.py
+Conteúdo das Aulas\149\pages\mudar_senha.py
+Conteúdo das Aulas\149\pages\path_link.py
+Conteúdo das Aulas\149\pages\sobre.py
+Conteúdo das Aulas\149\pages\upload.py
+Conteúdo das Aulas\149\template\footer.py
+Conteúdo das Aulas\149\template\head.py
+Conteúdo das Aulas\149\template\table_body.py
+Conteúdo das Aulas\149\template\table_navigation.py
+Conteúdo das Aulas\149\test.py
+Conteúdo das Aulas\150\Gabarito\SQLManager.py
+Conteúdo das Aulas\150\SQLManager.py
+Conteúdo das Aulas\151\Gabarito\MySQLManager.py
+Conteúdo das Aulas\151\Teste 1 - MySQL\Login.py
+Conteúdo das Aulas\151\Teste 1 - MySQL\MySQLManager.py
+Conteúdo das Aulas\151\Teste 1 - MySQL\SQLManager.py
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap-theme.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap-theme.min.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap.min.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\estilo1.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\login.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\registrar.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\starter-template.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\css\styles.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\form_functions.py
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap-theme.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap-theme.min.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap.min.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\ie10-viewport-bug-workaround.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\jumbotron.css
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\bootstrap.js
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\bootstrap.min.js
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\ie-emulation-modes-warning.js
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\ie8-responsive-file-warning.js
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\jquery-1.12.0.min.js
+Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\npm.js
+Conteúdo das Aulas\151\Teste 1 - MySQL\index.html
+Conteúdo das Aulas\151\Teste 1 - MySQL\js\login.js
+Conteúdo das Aulas\152\Download.py
+Conteúdo das Aulas\152\Login.py
+Conteúdo das Aulas\152\MudaSenha.py
+Conteúdo das Aulas\152\Teste 2 - SQLite\Login.py
+Conteúdo das Aulas\152\Teste 2 - SQLite\SQLManager.py
+Conteúdo das Aulas\152\Teste 2 - SQLite\SQLiteManager.py
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap-theme.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap-theme.min.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap.min.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\estilo1.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\login.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\registrar.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\starter-template.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\css\styles.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\database_creation\SQLiteCreation.py
+Conteúdo das Aulas\152\Teste 2 - SQLite\database_creation\SQLiteTeste.py
+Conteúdo das Aulas\152\Teste 2 - SQLite\form_functions.py
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap-theme.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap-theme.min.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap.min.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\ie10-viewport-bug-workaround.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\jumbotron.css
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\bootstrap.js
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\bootstrap.min.js
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\ie-emulation-modes-warning.js
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\ie8-responsive-file-warning.js
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\jquery-1.12.0.min.js
+Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\npm.js
+Conteúdo das Aulas\152\Teste 2 - SQLite\index.html
+Conteúdo das Aulas\152\Teste 2 - SQLite\js\login.js
+Conteúdo das Aulas\152\Upload.py
+Conteúdo das Aulas\remove.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.1 - Quadrados de números terminados em zero.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.10 - Números Triangulares.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.11 - Números Primos.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.12 - MDC Euclides.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.13 - Números Perfeitos.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.14 - Sequência de Finobocci.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.15 - Números Congruentes.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.16 - Transformar Binário para Normal.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.17 - Transformar em número binário.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.18 - Triângulos Retângulos.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.19 - Números Crescentes.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.2 - Soma de n positivos.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.20 - Soma das Dezenas ao Quadrado.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.21 - Segmentos em Sequências.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.22 - Segmentos Crescentes.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.23 - Números Palíndromes.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.24 - Subnúmeros.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.3 - Números ímpares.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.4 - Calculadora de Expoentes.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.5 - Loja de Discos.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.6 - Alunos de Recuperação.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.7 - Soma de Números Pares.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.8 - n!.py
+Exercícios Extras\IME USP\1. Exercícios com inteiros\1.9 - n Multiplos de i ou j.py
+Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.1 - Soma de números pares em sequências.py
+Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.2 - Hipotenusas de Triângulos retângulos.py
+Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.3 - Maior Valor para a Equação.py
+Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.4 - Soma de Números Primos.py
+Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.5 - Soma de números ímpares para n ao cubo.py
+Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.6 - Multiplicidade de raízes de um número.py
+Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.7 - MDC de uma sequência.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.1 - Calculo do montante mensal.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.10 - Valor de uma soma bizarra.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.11 - Soma de 1 a 1 dividido 10000.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.12 - Tamanho de Uauá e NY.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.2 - Números Harmônicos.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.3 - x,y pertencentes a H.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.4 - Pontos em H.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.5 - Raízes.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.6 - Cosseno.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.7 - Seno.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.8 - Media da sala e aprovados e reprovados.py
+Exercícios Extras\IME USP\3. Exercícios com Reais\3.9 - Operações com triplas.py
+Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.1.py
+Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.2.py
+Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.4.py
+Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.5.py
+Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.6.py
+Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.1.py
+Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.2.py
+Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.6.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.1 - Imprimir na Ordem Inversa.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.10 - Valor do p(x) para diferentes x.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.11 - Coeficientes da Derivada do polinômio.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.12 - Obter q(x) por Briot-Ruffini.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.13 - Produtos de Polinômios.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.15 - Média do aluno e da classe para provas de diferentes pesos.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.16 - Segmento Repetido.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.17 - Maior segmento na Sequência.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.2 - Número de Acertos na Prova.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.3 - Número de ocorrência de cada face do dado.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.4 - Produto Escalar de Vetores.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.5 - Raios de Circunferências.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.7 - Número de ocorrências de um elemento da sequência.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.8 - Sequência única, sem repetições.py
+Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.9 - Soma de duas Sequências.py
+Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.1 e 7.2 - Produto de Matrizes.py
+Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.3 - Solução do Sistema.py
+Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.4 - Há repetidos ou não.py
+Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.5 - Matriz de Permutaçao.py
+Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.6 - Linhas e colunas nulas.py
+Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.7 - Quadrado Mágico.py
+Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.8 - Pascal.py
+Exercícios Extras\Jogo da Velha - Tinkter\Jogo da Velha.py
+Exercícios Extras\Leitor de Versículos\versiculos.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 1.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 10.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 11.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 12.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 13.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 14.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 15.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 16.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 17.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 18.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 2.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 3.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 4.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 5.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 6.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 7.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 8.py
+Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 9.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 11.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 12.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 13.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 16.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 19.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 20.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 21.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 22.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 23.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 27.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 3.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 5.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 6.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 7.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 8.py
+Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 9.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 1.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 10.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 11.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 12.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 13.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 14.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 15.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 16.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 17.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 18.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 19.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 20.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 21.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 22.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 24.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 25.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 26.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 27.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 28.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 29.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 30.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 31.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 33.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 34.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 35.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 36.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 37.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 38.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 39.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 4.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 40.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 42.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 43.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 44.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 48.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 49.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 50.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 51.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 52.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 7.py
+Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 9.py
+Exercícios Extras\Universidade Federal da Bahia\ex.py
+Exercícios Extras\Universidade Federal da Bahia\ex2.py

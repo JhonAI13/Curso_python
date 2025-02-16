@@ -1,0 +1,8 @@
+cgi-bin\cgi1.py
+cgi-bin\cgi2_imagem.py
+cgi-bin\cgi3_css.py
+cgi-bin\cgi4_css_2.py
+cgi-bin\cgi5_tabela.py
+css\estilo1.css
+html\index.html
+http-server.py

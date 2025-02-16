@@ -1,0 +1,3 @@
+Exercício 1 - Gabarito.py
+Exercício 2 - Gabarito.py
+Exercício 3 - Gabarito.py

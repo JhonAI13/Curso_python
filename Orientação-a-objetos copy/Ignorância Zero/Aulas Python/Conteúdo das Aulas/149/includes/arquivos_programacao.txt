@@ -1,0 +1,12 @@
+css\bootstrap-theme.css
+css\bootstrap-theme.min.css
+css\bootstrap.css
+css\bootstrap.min.css
+css\ie10-viewport-bug-workaround.css
+css\jumbotron.css
+js\bootstrap.js
+js\bootstrap.min.js
+js\ie-emulation-modes-warning.js
+js\ie8-responsive-file-warning.js
+js\jquery-1.12.0.min.js
+js\npm.js

@@ -1,0 +1,1113 @@
+Curso-em-video\Aula_10.py
+Curso-em-video\Aula_100.py
+Curso-em-video\Aula_101.py
+Curso-em-video\Aula_102.py
+Curso-em-video\Aula_103.py
+Curso-em-video\Aula_104.py
+Curso-em-video\Aula_105.py
+Curso-em-video\Aula_106.py
+Curso-em-video\Aula_107\moeda.py
+Curso-em-video\Aula_107\teste.py
+Curso-em-video\Aula_108\moeda2.py
+Curso-em-video\Aula_108\teste2.py
+Curso-em-video\Aula_11.py
+Curso-em-video\Aula_12.py
+Curso-em-video\Aula_13.py
+Curso-em-video\Aula_14.py
+Curso-em-video\Aula_15.py
+Curso-em-video\Aula_16.py
+Curso-em-video\Aula_17.py
+Curso-em-video\Aula_18.py
+Curso-em-video\Aula_19.py
+Curso-em-video\Aula_20.py
+Curso-em-video\Aula_22.py
+Curso-em-video\Aula_23.py
+Curso-em-video\Aula_24.py
+Curso-em-video\Aula_25.py
+Curso-em-video\Aula_26.py
+Curso-em-video\Aula_27.py
+Curso-em-video\Aula_28.py
+Curso-em-video\Aula_29.py
+Curso-em-video\Aula_30.py
+Curso-em-video\Aula_31.py
+Curso-em-video\Aula_32.py
+Curso-em-video\Aula_33.py
+Curso-em-video\Aula_34.py
+Curso-em-video\Aula_35.py
+Curso-em-video\Aula_36.py
+Curso-em-video\Aula_37.py
+Curso-em-video\Aula_38.py
+Curso-em-video\Aula_39.py
+Curso-em-video\Aula_40.py
+Curso-em-video\Aula_41.py
+Curso-em-video\Aula_42.py
+Curso-em-video\Aula_43.py
+Curso-em-video\Aula_44.py
+Curso-em-video\Aula_45.py
+Curso-em-video\Aula_46.py
+Curso-em-video\Aula_47.py
+Curso-em-video\Aula_48.py
+Curso-em-video\Aula_49.py
+Curso-em-video\Aula_5.py
+Curso-em-video\Aula_50.py
+Curso-em-video\Aula_51.py
+Curso-em-video\Aula_52.py
+Curso-em-video\Aula_53.py
+Curso-em-video\Aula_54.py
+Curso-em-video\Aula_55.py
+Curso-em-video\Aula_56.py
+Curso-em-video\Aula_57.py
+Curso-em-video\Aula_58.py
+Curso-em-video\Aula_59.py
+Curso-em-video\Aula_6.py
+Curso-em-video\Aula_60.py
+Curso-em-video\Aula_61.py
+Curso-em-video\Aula_62.py
+Curso-em-video\Aula_63.py
+Curso-em-video\Aula_64.py
+Curso-em-video\Aula_65.py
+Curso-em-video\Aula_66.py
+Curso-em-video\Aula_67.py
+Curso-em-video\Aula_68.py
+Curso-em-video\Aula_69.py
+Curso-em-video\Aula_7.py
+Curso-em-video\Aula_70.py
+Curso-em-video\Aula_71.py
+Curso-em-video\Aula_72.py
+Curso-em-video\Aula_73.py
+Curso-em-video\Aula_74.py
+Curso-em-video\Aula_75.py
+Curso-em-video\Aula_76.py
+Curso-em-video\Aula_77.py
+Curso-em-video\Aula_78.py
+Curso-em-video\Aula_79.py
+Curso-em-video\Aula_8.py
+Curso-em-video\Aula_80.py
+Curso-em-video\Aula_81.py
+Curso-em-video\Aula_82.py
+Curso-em-video\Aula_83.py
+Curso-em-video\Aula_84.py
+Curso-em-video\Aula_85.py
+Curso-em-video\Aula_86.py
+Curso-em-video\Aula_87.py
+Curso-em-video\Aula_88.py
+Curso-em-video\Aula_89.py
+Curso-em-video\Aula_9.py
+Curso-em-video\Aula_90.py
+Curso-em-video\Aula_91.py
+Curso-em-video\Aula_92.py
+Curso-em-video\Aula_93.py
+Curso-em-video\Aula_94.py
+Curso-em-video\Aula_95.py
+Curso-em-video\Aula_96.py
+Curso-em-video\Aula_97.py
+Curso-em-video\Aula_98.py
+Curso-em-video\Aula_99.py
+Orientação-a-objetos copy\042\Bagels - Obj.py
+Orientação-a-objetos copy\042\ex.py
+Orientação-a-objetos copy\042\ex_respondido.py
+Orientação-a-objetos copy\042\pedro_func.py
+Orientação-a-objetos copy\35Argumentos-variaveis-e-pré-definidos.py
+Orientação-a-objetos copy\36Variaveis-globais-e-locais.py
+Orientação-a-objetos copy\37Listas-e-matrizes.py
+Orientação-a-objetos copy\37zEX-jogo-dos-numeros.py
+Orientação-a-objetos copy\38Nomenclatura-e-descrição.py
+Orientação-a-objetos copy\39Refatoração.py
+Orientação-a-objetos copy\40Nested_functions_Nonlocal.py
+Orientação-a-objetos copy\41Lamda.py
+Orientação-a-objetos copy\43\43Break.py
+Orientação-a-objetos copy\43\Exercício 1.py
+Orientação-a-objetos copy\45String.py
+Orientação-a-objetos copy\46Strings_listas_tuplas.py
+Orientação-a-objetos copy\47Padrão_ASCII.py
+Orientação-a-objetos copy\48Cifra_de_Cezar.py
+Orientação-a-objetos copy\49Forca.py
+Orientação-a-objetos copy\50Remanescentes.py
+Orientação-a-objetos copy\52-bytes-e-for-loops\EX- jogo-rpg\Jogo.py
+Orientação-a-objetos copy\52-bytes-e-for-loops\bytes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\002\Primeiro.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\003\Print.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\004\Comentario.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\005\Variavel.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Gabarito\Exercício 1 - Resposta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Gabarito\Exercício 2 - Resposta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\006\Soma.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Cachorros.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Exercicio 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Gabarito\Exercicio 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Gabarito\Exercicio 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\007\Operações.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\008\Balada.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Balada2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Gabarito\Gabarito - Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Gabarito\Gabarito - Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Loja de Tintas.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\009\Maior.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\010\Comparaçoes Multiplas.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\010\Exercicios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\010\Gabarito\Gabarito - Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Dia da Semana.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Exercício\Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Exercício\Exercicio 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Gabarito\Gabarito - Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Gabarito\Gabarito - Exercicio 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\Ordem Decrescente.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\011\teste.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Exercicios\Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Exercicios\Exercicio 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Gabarito\Gabarito - Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Gabarito\Gabarito - Exercicio 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Potência.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\Quadrados de números terminados em zero.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\While Loop.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\013\n!.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\014\Balança de Empresas.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\014\Nested while loop.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Exercicios\Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Exercicios\Exercicio 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Gabarito\Gabarito - Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Gabarito\Gabarito - Exercicio 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Idade.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\015\Numeros Procurados.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Números Palíndromes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Segmentos Crescentes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Segmentos em Sequências.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Soma das Dezenas ao Quadrado.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Subnúmeros - Solução 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Subnúmeros - Solução 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\016\Subnúmeros.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Brincando.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Exercicios\Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Fatorial.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Gabarito\Exercicio 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\017\Numeros Triangulares.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Brincando.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Exercicio\Exercicio 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Exercicio\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Gabarito\Exercicio 2 - Gabarito 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Gabarito\Exercício 2 - Gabarito 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Gabarito\Exercício 2 - Gabarito 3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Soma de números pares em sequências.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\018\Tabuada.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Primos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\019\Triângulo Retângulo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Média.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\020\Valor da soma.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\021\Arredondar.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\021\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\021\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\021\Três Números.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Maior e menor Temp.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\022\Media de alunos por turma.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\023\Brincando.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\023\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\023\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\023\Área Círculo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\024\5 mais importantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\024\Exercícios\Exercicio 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\024\Gabarito\Exercicio 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\024\Quebrando a Banca.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Append.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Exercício\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Exercício\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\026\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\028\Dados.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\028\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\028\Função len e método Count.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\028\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\Média maior que sete.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\029\brincando.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Mini Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Remove.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\030\Reverse.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\031\Método Index.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\031\Método Insert.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\031\Método pop.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\031\Método sort.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Exercícios\Exercício Megasena 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Exercícios\Exercício Megasena 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Exercícios\Exercício Megasena 3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Gabarito\Exercício Megasena 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Gabarito\Exercício Megasena 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Gabarito\Exercício Megasena 3 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\032\Simulador Megasena.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exemplos\Exemplo 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exemplos\Exemplo 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exemplos\Exemplo 3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exemplos\Exemplo 4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Função - Construção.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Funções - Exemplos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\033\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\034\Exemplo 3 - Tuplas.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Gabaritos\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Gabaritos\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Peso de provas.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\035\Soma.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\036\Bancário.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\036\Exemplo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Constrói Matriz.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Desafio\Desafio - Jogo dos Números.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Gera matriz.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Resolução\Desafio - Jogo dos Números - Solução.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\037\Troca elemento matriz.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\038\Atribuição de Função.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\038\Mesmos nomes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\038\Tudo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Fatorial.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\039\Passada.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Expoente.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\040\Lista de comida.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\042\Bagels - Obj.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\042\CABEÇALHO.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\042\pedro_func.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\042\seu_ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Forma Lista.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\043\Soma Lista.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\044\Refazendo o Exercício.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\045\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\045\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\045\Imprimir ao lado do outro.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\045\abc.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\046\Exercícios\Exercício.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\046\Formatação de Saída.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\046\Gabarito\Exercício - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Comparação String.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Converte String.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Exercícios\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Nome e Senha.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\047\Tabela ASCII.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\048Isalfa\Cifra de Cesar - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\048Isalfa\Cifra de Cesar.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\048Isalfa\islower, isupper e isalpha.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\048Isalfa\split e rsplit.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\049\Forca - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\049\Forca.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\049\startswith.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\050\Find e Index.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\050\count.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\050\replace.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\051\Brincando.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\051\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\051\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\052\Jogo - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\052\Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\053\Encontra Palavras - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\053\Encontra Palavras.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\053\auxiliar.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\055\Exercícios\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\055\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\056\get.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\056\items, keys, values.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\057\Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\057\Luta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Exercício\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Exercício\Exercício 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Exercício\Exercício 3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Gabarito\Exercício 2 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\059\Gabarito\Exercício 3 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\060\Exercício\Exercício 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\060\Gabarito\Exercício 1 - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\062\Exercício - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\062\Exercício.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\063\Exercício - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\063\Exercício.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\066\Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\066\Lutas\MinhaLuta\Luta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\067\arquivo_erro.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\067\teste.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\068\Adivinha numero - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\068\Advinha numero.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\068\teste.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\069\Adivinha numeroB - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\069\Adivinha numeroB.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\070\Assert.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\073\Teste.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\075\Exercício - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\075\Exercício.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\076\Exercício - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\076\Exercício.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\077\Gabarito\Jogo - Gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\077\Gabarito\Luta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\077\Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\077\Luta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\Luta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\Personagem.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\inimigo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Gabarito\player.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Luta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\Personagem.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\inimigo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\078\player.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\Luta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\Personagem.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\inimigo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Gabarito\player.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Luta.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\Personagem.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\inimigo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\079\player.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\081\comp_lista.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\081\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\081\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\Filter.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\Map.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\Zip.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\exs\ex_filter.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\exs\ex_map.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\exs\ex_zip.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\gabs\ex_filter_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\gabs\ex_map_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\082\gabs\ex_zip_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\all.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\any.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\exs\ex_all.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\exs\ex_any.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\exs\ex_reduce.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\exs\ex_sum.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\gabs\ex_all_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\gabs\ex_any_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\gabs\ex_reduce_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\gabs\ex_sum_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\reduce.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\083\sum.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\084\8rainhas.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\084\8rainhas_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\085\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\085\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\086\Quadrados.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\086\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\086\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\087\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\087\t.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\088\brincando.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\088\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\088\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\088\ola_mundo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\089\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\089\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\090\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\090\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\091\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\091\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\092\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\092\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\093\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\093\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\094\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\094\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\094\final\calc_est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\094\final\est.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\095\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\095\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\095\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\095\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\ex\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\ex\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\jogo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\096\jogo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\ex\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\ex\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\ex\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\jogo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\097\jogo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\ex\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\jogo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\098\jogo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\099\jogo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\099\jogo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\ex\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\bola.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\objeto.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\100\jogo\retangulo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\app5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\ex\ex_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\bola.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\objeto.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\101\jogo\retangulo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\ex\app7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\grid.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\bola.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\objeto.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\jogo completo\retangulo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\102\mouse.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\Time.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\ex\app8.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\bola.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\objeto.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\103\jogo\retangulo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\Winsound.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\Imagens\__init__.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\__init__.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app8.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\ex\app9.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\bola.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\objeto.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\104\jogo\retangulo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\105.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\Imagens\__init__.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app8.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\ex\apps\app9.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\constantes\constantes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\objetos\bola.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\objetos\objeto.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\objetos\retangulo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\play.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\105\jogo\principal\jogo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\106\106.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\107.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app1\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app2\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app3\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app4\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app5\app5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app6\app6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app7\app7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app8\app8.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\107\ex\apps\app9\app9.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\108.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app1\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app2\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app3\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app4\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app5\app5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app6\app6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app7\app7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app8\app8.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\aplicativo\apps\app9\app9.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\108\ex\instalador.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\109.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\app.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app1\app1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app2\app2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app3\app3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app4\app4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app5\app5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app6\app6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app7\app7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app8\app8.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\aplicativo\apps\app9\app9.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\109\ex\instalador.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\110.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\110b.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\ex\aleatorio.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\ex\arruma.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\ex\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\ex\play.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\110\interect.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\111.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\escreve.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\aleatorio.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\arruma.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\maximo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\ex\play.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\111\recebe.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\112\112.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\113\113.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\113\ex\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\113\ex\gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\113\ex\rec.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\114\114.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\114\hello-2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\114\hello.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\115\ex\instalador.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\115\fib.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\116\116.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\116\criptografa.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\116\desafio.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\116\descriptografa.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\117\117.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\118\118.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\119\119.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\120\120.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\121\121.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\122\122.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\123\123.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\124\124.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\124\calendario.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\124\horario.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\124\relogio.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\125\125.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\126\126.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\126\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\126\gabarito.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\127\127.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\127\com_classe.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\128.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\ex\ex1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\ex\ex2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\gabarito\ex1_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\128\gabarito\ex2_gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\129.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\filho.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\indp.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\teste.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\129\teste2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\130.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\ex\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\gabarito\cronometra.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\gabarito\gab.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\gabarito\gera.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\gabarito\normal.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\hello_thread.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\hello_threading.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\poder.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\travar.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\130\travar_sair.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\131\131.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\131\fila.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\131\fila_threading.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\132\132.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\132\anonimo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\132\nomeado.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\133.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\event.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\filho.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\mult.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\outros.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\pipe.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\pool.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\133\queue.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\134.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\ex\ex1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\ex\ex2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\gab\gab1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\134\gab\gab2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\135.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\base_cliente.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\base_server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\ex\chat_cliente.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\135\ex\chat_server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\136.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\ex\cliente.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\ex\server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\mult_cliente.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\mult_server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\select_server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\136\socket_server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\137\137.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\137\UDP_cliente.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\137\UDP_server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\138\138.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\138\com_headers.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\139.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\ftp_console.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\ftp_download.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\ftp_download_org.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\139\ftp_upload.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\140\140.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\140\mailconfig.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\140\pop.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\140\smtp.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\141\141.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\141\http_test.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\141\nntp.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\142\142.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\142\cgi-bin\cgi1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\142\html\index.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\142\http-server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi2_imagem.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi3_css.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi4_css_2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\cgi-bin\cgi5_tabela.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\css\estilo1.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\html\index.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\143\http-server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\cgi-bin\fetch_page.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\cgi-bin\recebe.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\css\starter-template.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\contato.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\feet.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\head.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\navbar.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\html\sobre.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\http-server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\index.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\js\bootstrap.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\js\bootstrap.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\144\js\npm.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi2_imagem.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi3_css.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi4_css_2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi5_tabela.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi6_cookies.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\cgi7_morsel.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\fetch_page.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\menu.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\cgi-bin\recebe.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\estilo1.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\css\starter-template.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\contato.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\feet.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\head.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\navbar.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\html\sobre.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\http-server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\index.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\js\bootstrap.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\js\bootstrap.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\145\js\npm.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi2_imagem.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi3_css.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi4_css_2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi5_tabela.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi6_cookies.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi7_morsel.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi8_upload.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\cgi9_download.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\download.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\download_fisico.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\fetch_page.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\menu.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\recebe.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\cgi-bin\save_file.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\estilo1.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\css\starter-template.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\contato.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\feet.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\head.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\navbar.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\html\sobre.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\http-server.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\index.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\js\bootstrap.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\js\bootstrap.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\146\js\npm.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\Download.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\Login.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\MudaSenha.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\Sair.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\Upload.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\cgi-bin\path_link.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\CookieManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\MicrosoftManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\MySQLManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\OracleManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\PostgresManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\SQLManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\SQLiteManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\classes\SessionManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\estilo1.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\login.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\registrar.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\starter-template.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\css\styles.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\Primeiro.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi2_imagem.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi3_css.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi4_css_2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi5_tabela.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi6_cookies.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi7_morsel.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi8_upload.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\cgi9_download.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\download.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\download_fisico.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\admin\save_file.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\data\pedro\cgi1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\fetch_page.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\functions\char_functions.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\functions\form_functions.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\ie10-viewport-bug-workaround.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\css\jumbotron.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\bootstrap.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\bootstrap.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\ie-emulation-modes-warning.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\ie8-responsive-file-warning.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\jquery-1.12.0.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\includes\js\npm.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\index.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\js\login.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\login.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\contato.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\download.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\inicial.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\log_acessos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\menu.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\mudar_senha.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\path_link.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\sobre.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\pages\upload.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\template\footer.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\template\head.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\template\table_body.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\template\table_navigation.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\149\test.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\150\Gabarito\SQLManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\150\SQLManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Gabarito\MySQLManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\Login.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\MySQLManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\SQLManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\estilo1.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\login.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\registrar.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\starter-template.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\css\styles.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\form_functions.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\ie10-viewport-bug-workaround.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\css\jumbotron.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\bootstrap.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\bootstrap.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\ie-emulation-modes-warning.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\ie8-responsive-file-warning.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\jquery-1.12.0.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\includes\js\npm.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\index.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\151\Teste 1 - MySQL\js\login.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Download.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Login.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\MudaSenha.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\Login.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\SQLManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\SQLiteManager.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\estilo1.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\login.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\registrar.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\starter-template.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\css\styles.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\database_creation\SQLiteCreation.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\database_creation\SQLiteTeste.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\form_functions.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap-theme.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap-theme.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\bootstrap.min.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\ie10-viewport-bug-workaround.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\css\jumbotron.css
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\bootstrap.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\bootstrap.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\ie-emulation-modes-warning.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\ie8-responsive-file-warning.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\jquery-1.12.0.min.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\includes\js\npm.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\index.html
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Teste 2 - SQLite\js\login.js
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\152\Upload.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Conteúdo das Aulas\remove.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.1 - Quadrados de números terminados em zero.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.10 - Números Triangulares.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.11 - Números Primos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.12 - MDC Euclides.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.13 - Números Perfeitos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.14 - Sequência de Finobocci.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.15 - Números Congruentes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.16 - Transformar Binário para Normal.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.17 - Transformar em número binário.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.18 - Triângulos Retângulos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.19 - Números Crescentes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.2 - Soma de n positivos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.20 - Soma das Dezenas ao Quadrado.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.21 - Segmentos em Sequências.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.22 - Segmentos Crescentes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.23 - Números Palíndromes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.24 - Subnúmeros.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.3 - Números ímpares.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.4 - Calculadora de Expoentes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.5 - Loja de Discos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.6 - Alunos de Recuperação.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.7 - Soma de Números Pares.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.8 - n!.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\1. Exercícios com inteiros\1.9 - n Multiplos de i ou j.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.1 - Soma de números pares em sequências.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.2 - Hipotenusas de Triângulos retângulos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.3 - Maior Valor para a Equação.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.4 - Soma de Números Primos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.5 - Soma de números ímpares para n ao cubo.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.6 - Multiplicidade de raízes de um número.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\2. Exercícios com repetições encaixadas\2.7 - MDC de uma sequência.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.1 - Calculo do montante mensal.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.10 - Valor de uma soma bizarra.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.11 - Soma de 1 a 1 dividido 10000.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.12 - Tamanho de Uauá e NY.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.2 - Números Harmônicos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.3 - x,y pertencentes a H.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.4 - Pontos em H.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.5 - Raízes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.6 - Cosseno.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.7 - Seno.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.8 - Media da sala e aprovados e reprovados.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\3. Exercícios com Reais\3.9 - Operações com triplas.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\4. Exercícios com Funções - Parte I\4.6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\5. Exercícios com Funções - Parte II\5.6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.1 - Imprimir na Ordem Inversa.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.10 - Valor do p(x) para diferentes x.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.11 - Coeficientes da Derivada do polinômio.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.12 - Obter q(x) por Briot-Ruffini.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.13 - Produtos de Polinômios.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.15 - Média do aluno e da classe para provas de diferentes pesos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.16 - Segmento Repetido.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.17 - Maior segmento na Sequência.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.2 - Número de Acertos na Prova.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.3 - Número de ocorrência de cada face do dado.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.4 - Produto Escalar de Vetores.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.5 - Raios de Circunferências.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.7 - Número de ocorrências de um elemento da sequência.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.8 - Sequência única, sem repetições.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\6. Exercícios com  Vetores\6.9 - Soma de duas Sequências.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.1 e 7.2 - Produto de Matrizes.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.3 - Solução do Sistema.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.4 - Há repetidos ou não.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.5 - Matriz de Permutaçao.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.6 - Linhas e colunas nulas.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.7 - Quadrado Mágico.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\IME USP\7. Exercícios com Matrizes\7.8 - Pascal.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Jogo da Velha - Tinkter\Jogo da Velha.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Leitor de Versículos\versiculos.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 10.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 11.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 12.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 13.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 14.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 15.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 16.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 17.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 18.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 2.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 8.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\1 - Estrutura Sequencial\Ex. 9.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 11.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 12.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 13.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 16.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 19.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 20.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 21.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 22.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 23.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 27.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 3.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 5.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 6.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 8.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\2 - Estrutura de Decisão\Ex 9.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 1.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 10.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 11.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 12.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 13.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 14.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 15.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 16.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 17.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 18.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 19.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 20.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 21.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 22.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 24.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 25.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 26.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 27.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 28.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 29.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 30.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 31.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 33.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 34.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 35.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 36.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 37.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 38.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 39.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 4.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 40.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 42.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 43.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 44.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 48.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 49.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 50.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 51.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 52.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 7.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Python Brasil\3 - Estrutura de Repetição\Ex 9.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Universidade Federal da Bahia\ex.py
+Orientação-a-objetos copy\Ignorância Zero\Aulas Python\Exercícios Extras\Universidade Federal da Bahia\ex2.py
+Orientação-a-objetos copy\h51arquivos\EX-relatorio\Exercício 1.py
+Orientação-a-objetos copy\h51arquivos\Modos_de_abertura.py
+Orientação-a-objetos-jupter\Caderno\teste.py
+Orientação-a-objetos-jupter\Caderno\teste_conta.py
+Orientação-a-objetos-jupter\Caderno\teste_conta_cliente.py
+Orientação-a-objetos-jupter\Caderno\teste_segur.py
+Orientação-a-objetos\001classes_objetos\conta.py
+Orientação-a-objetos\001classes_objetos\teste_conta.py
+Orientação-a-objetos\002metodos\conta.py
+Orientação-a-objetos\002metodos\teste_conta.py
+Orientação-a-objetos\003metodos_com_retorno\conta.py
+Orientação-a-objetos\003metodos_com_retorno\teste_conta.py
+Orientação-a-objetos\004metodos_transfere\conta.py
+Orientação-a-objetos\004metodos_transfere\teste_conta.py
+Orientação-a-objetos\005continuando_com_atributos\conta.py
+Orientação-a-objetos\005continuando_com_atributos\teste_conta.py
+Orientação-a-objetos\006Composição\conta.py
+Orientação-a-objetos\006Composição\teste_conta.py
+Orientação-a-objetos\007EX_primeira_classe\conta.py
+Orientação-a-objetos\007EX_primeira_classe\teste_conta.py
+Orientação-a-objetos\008mofificadores_de_acesso\conta.py
+Orientação-a-objetos\008mofificadores_de_acesso\teste_conta.py
+Orientação-a-objetos\009Encapsulamento\conta.py
+Orientação-a-objetos\009Encapsulamento\teste_conta.py
+ex.py

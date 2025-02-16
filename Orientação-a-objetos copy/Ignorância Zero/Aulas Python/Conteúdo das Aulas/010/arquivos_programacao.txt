@@ -1,0 +1,3 @@
+Comparaçoes Multiplas.py
+Exercicios\Exercício 1.py
+Gabarito\Gabarito - Exercício 1.py

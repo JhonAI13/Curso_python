@@ -1,0 +1,12 @@
+3.1 - Calculo do montante mensal.py
+3.10 - Valor de uma soma bizarra.py
+3.11 - Soma de 1 a 1 dividido 10000.py
+3.12 - Tamanho de Uauá e NY.py
+3.2 - Números Harmônicos.py
+3.3 - x,y pertencentes a H.py
+3.4 - Pontos em H.py
+3.5 - Raízes.py
+3.6 - Cosseno.py
+3.7 - Seno.py
+3.8 - Media da sala e aprovados e reprovados.py
+3.9 - Operações com triplas.py

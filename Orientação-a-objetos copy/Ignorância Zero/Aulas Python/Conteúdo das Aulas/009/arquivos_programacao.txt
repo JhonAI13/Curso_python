@@ -1,0 +1,7 @@
+Balada2.py
+Exercícios\Exercício 1.py
+Exercícios\Exercício 2.py
+Gabarito\Gabarito - Exercício 1.py
+Gabarito\Gabarito - Exercício 2.py
+Loja de Tintas.py
+Maior.py

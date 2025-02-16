@@ -1,0 +1,73 @@
+1. Exercícios com inteiros\1.1 - Quadrados de números terminados em zero.py
+1. Exercícios com inteiros\1.10 - Números Triangulares.py
+1. Exercícios com inteiros\1.11 - Números Primos.py
+1. Exercícios com inteiros\1.12 - MDC Euclides.py
+1. Exercícios com inteiros\1.13 - Números Perfeitos.py
+1. Exercícios com inteiros\1.14 - Sequência de Finobocci.py
+1. Exercícios com inteiros\1.15 - Números Congruentes.py
+1. Exercícios com inteiros\1.16 - Transformar Binário para Normal.py
+1. Exercícios com inteiros\1.17 - Transformar em número binário.py
+1. Exercícios com inteiros\1.18 - Triângulos Retângulos.py
+1. Exercícios com inteiros\1.19 - Números Crescentes.py
+1. Exercícios com inteiros\1.2 - Soma de n positivos.py
+1. Exercícios com inteiros\1.20 - Soma das Dezenas ao Quadrado.py
+1. Exercícios com inteiros\1.21 - Segmentos em Sequências.py
+1. Exercícios com inteiros\1.22 - Segmentos Crescentes.py
+1. Exercícios com inteiros\1.23 - Números Palíndromes.py
+1. Exercícios com inteiros\1.24 - Subnúmeros.py
+1. Exercícios com inteiros\1.3 - Números ímpares.py
+1. Exercícios com inteiros\1.4 - Calculadora de Expoentes.py
+1. Exercícios com inteiros\1.5 - Loja de Discos.py
+1. Exercícios com inteiros\1.6 - Alunos de Recuperação.py
+1. Exercícios com inteiros\1.7 - Soma de Números Pares.py
+1. Exercícios com inteiros\1.8 - n!.py
+1. Exercícios com inteiros\1.9 - n Multiplos de i ou j.py
+2. Exercícios com repetições encaixadas\2.1 - Soma de números pares em sequências.py
+2. Exercícios com repetições encaixadas\2.2 - Hipotenusas de Triângulos retângulos.py
+2. Exercícios com repetições encaixadas\2.3 - Maior Valor para a Equação.py
+2. Exercícios com repetições encaixadas\2.4 - Soma de Números Primos.py
+2. Exercícios com repetições encaixadas\2.5 - Soma de números ímpares para n ao cubo.py
+2. Exercícios com repetições encaixadas\2.6 - Multiplicidade de raízes de um número.py
+2. Exercícios com repetições encaixadas\2.7 - MDC de uma sequência.py
+3. Exercícios com Reais\3.1 - Calculo do montante mensal.py
+3. Exercícios com Reais\3.10 - Valor de uma soma bizarra.py
+3. Exercícios com Reais\3.11 - Soma de 1 a 1 dividido 10000.py
+3. Exercícios com Reais\3.12 - Tamanho de Uauá e NY.py
+3. Exercícios com Reais\3.2 - Números Harmônicos.py
+3. Exercícios com Reais\3.3 - x,y pertencentes a H.py
+3. Exercícios com Reais\3.4 - Pontos em H.py
+3. Exercícios com Reais\3.5 - Raízes.py
+3. Exercícios com Reais\3.6 - Cosseno.py
+3. Exercícios com Reais\3.7 - Seno.py
+3. Exercícios com Reais\3.8 - Media da sala e aprovados e reprovados.py
+3. Exercícios com Reais\3.9 - Operações com triplas.py
+4. Exercícios com Funções - Parte I\4.1.py
+4. Exercícios com Funções - Parte I\4.2.py
+4. Exercícios com Funções - Parte I\4.4.py
+4. Exercícios com Funções - Parte I\4.5.py
+4. Exercícios com Funções - Parte I\4.6.py
+5. Exercícios com Funções - Parte II\5.1.py
+5. Exercícios com Funções - Parte II\5.2.py
+5. Exercícios com Funções - Parte II\5.6.py
+6. Exercícios com  Vetores\6.1 - Imprimir na Ordem Inversa.py
+6. Exercícios com  Vetores\6.10 - Valor do p(x) para diferentes x.py
+6. Exercícios com  Vetores\6.11 - Coeficientes da Derivada do polinômio.py
+6. Exercícios com  Vetores\6.12 - Obter q(x) por Briot-Ruffini.py
+6. Exercícios com  Vetores\6.13 - Produtos de Polinômios.py
+6. Exercícios com  Vetores\6.15 - Média do aluno e da classe para provas de diferentes pesos.py
+6. Exercícios com  Vetores\6.16 - Segmento Repetido.py
+6. Exercícios com  Vetores\6.17 - Maior segmento na Sequência.py
+6. Exercícios com  Vetores\6.2 - Número de Acertos na Prova.py
+6. Exercícios com  Vetores\6.3 - Número de ocorrência de cada face do dado.py
+6. Exercícios com  Vetores\6.4 - Produto Escalar de Vetores.py
+6. Exercícios com  Vetores\6.5 - Raios de Circunferências.py
+6. Exercícios com  Vetores\6.7 - Número de ocorrências de um elemento da sequência.py
+6. Exercícios com  Vetores\6.8 - Sequência única, sem repetições.py
+6. Exercícios com  Vetores\6.9 - Soma de duas Sequências.py
+7. Exercícios com Matrizes\7.1 e 7.2 - Produto de Matrizes.py
+7. Exercícios com Matrizes\7.3 - Solução do Sistema.py
+7. Exercícios com Matrizes\7.4 - Há repetidos ou não.py
+7. Exercícios com Matrizes\7.5 - Matriz de Permutaçao.py
+7. Exercícios com Matrizes\7.6 - Linhas e colunas nulas.py
+7. Exercícios com Matrizes\7.7 - Quadrado Mágico.py
+7. Exercícios com Matrizes\7.8 - Pascal.py

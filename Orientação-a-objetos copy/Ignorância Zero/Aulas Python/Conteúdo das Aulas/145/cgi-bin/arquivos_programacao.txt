@@ -1,0 +1,10 @@
+cgi1.py
+cgi2_imagem.py
+cgi3_css.py
+cgi4_css_2.py
+cgi5_tabela.py
+cgi6_cookies.py
+cgi7_morsel.py
+fetch_page.py
+menu.py
+recebe.py

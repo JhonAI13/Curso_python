@@ -1,0 +1,33 @@
+Download.py
+Login.py
+MudaSenha.py
+Teste 2 - SQLite\Login.py
+Teste 2 - SQLite\SQLManager.py
+Teste 2 - SQLite\SQLiteManager.py
+Teste 2 - SQLite\css\bootstrap-theme.css
+Teste 2 - SQLite\css\bootstrap-theme.min.css
+Teste 2 - SQLite\css\bootstrap.css
+Teste 2 - SQLite\css\bootstrap.min.css
+Teste 2 - SQLite\css\estilo1.css
+Teste 2 - SQLite\css\login.css
+Teste 2 - SQLite\css\registrar.css
+Teste 2 - SQLite\css\starter-template.css
+Teste 2 - SQLite\css\styles.css
+Teste 2 - SQLite\database_creation\SQLiteCreation.py
+Teste 2 - SQLite\database_creation\SQLiteTeste.py
+Teste 2 - SQLite\form_functions.py
+Teste 2 - SQLite\includes\css\bootstrap-theme.css
+Teste 2 - SQLite\includes\css\bootstrap-theme.min.css
+Teste 2 - SQLite\includes\css\bootstrap.css
+Teste 2 - SQLite\includes\css\bootstrap.min.css
+Teste 2 - SQLite\includes\css\ie10-viewport-bug-workaround.css
+Teste 2 - SQLite\includes\css\jumbotron.css
+Teste 2 - SQLite\includes\js\bootstrap.js
+Teste 2 - SQLite\includes\js\bootstrap.min.js
+Teste 2 - SQLite\includes\js\ie-emulation-modes-warning.js
+Teste 2 - SQLite\includes\js\ie8-responsive-file-warning.js
+Teste 2 - SQLite\includes\js\jquery-1.12.0.min.js
+Teste 2 - SQLite\includes\js\npm.js
+Teste 2 - SQLite\index.html
+Teste 2 - SQLite\js\login.js
+Upload.py

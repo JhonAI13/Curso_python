@@ -1,0 +1,9 @@
+Brincando.py
+Exercicio\Exercicio 2.py
+Exercicio\Exercício 1.py
+Gabarito\Exercicio 2 - Gabarito 1.py
+Gabarito\Exercício 1 - Gabarito.py
+Gabarito\Exercício 2 - Gabarito 2.py
+Gabarito\Exercício 2 - Gabarito 3.py
+Soma de números pares em sequências.py
+Tabuada.py

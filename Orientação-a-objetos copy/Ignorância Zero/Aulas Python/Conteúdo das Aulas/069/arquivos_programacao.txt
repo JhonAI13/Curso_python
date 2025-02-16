@@ -1,0 +1,2 @@
+Adivinha numeroB - Gabarito.py
+Adivinha numeroB.py

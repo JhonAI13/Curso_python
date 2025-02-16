@@ -1,0 +1,14 @@
+admin\Primeiro.py
+admin\cgi1.py
+admin\cgi2_imagem.py
+admin\cgi3_css.py
+admin\cgi4_css_2.py
+admin\cgi5_tabela.py
+admin\cgi6_cookies.py
+admin\cgi7_morsel.py
+admin\cgi8_upload.py
+admin\cgi9_download.py
+admin\download.py
+admin\download_fisico.py
+admin\save_file.py
+pedro\cgi1.py

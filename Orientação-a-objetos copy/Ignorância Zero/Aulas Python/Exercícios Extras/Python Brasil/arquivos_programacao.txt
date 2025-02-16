@@ -1,0 +1,75 @@
+1 - Estrutura Sequencial\Ex. 1.py
+1 - Estrutura Sequencial\Ex. 10.py
+1 - Estrutura Sequencial\Ex. 11.py
+1 - Estrutura Sequencial\Ex. 12.py
+1 - Estrutura Sequencial\Ex. 13.py
+1 - Estrutura Sequencial\Ex. 14.py
+1 - Estrutura Sequencial\Ex. 15.py
+1 - Estrutura Sequencial\Ex. 16.py
+1 - Estrutura Sequencial\Ex. 17.py
+1 - Estrutura Sequencial\Ex. 18.py
+1 - Estrutura Sequencial\Ex. 2.py
+1 - Estrutura Sequencial\Ex. 3.py
+1 - Estrutura Sequencial\Ex. 4.py
+1 - Estrutura Sequencial\Ex. 5.py
+1 - Estrutura Sequencial\Ex. 6.py
+1 - Estrutura Sequencial\Ex. 7.py
+1 - Estrutura Sequencial\Ex. 8.py
+1 - Estrutura Sequencial\Ex. 9.py
+2 - Estrutura de Decisão\Ex 11.py
+2 - Estrutura de Decisão\Ex 12.py
+2 - Estrutura de Decisão\Ex 13.py
+2 - Estrutura de Decisão\Ex 16.py
+2 - Estrutura de Decisão\Ex 19.py
+2 - Estrutura de Decisão\Ex 20.py
+2 - Estrutura de Decisão\Ex 21.py
+2 - Estrutura de Decisão\Ex 22.py
+2 - Estrutura de Decisão\Ex 23.py
+2 - Estrutura de Decisão\Ex 27.py
+2 - Estrutura de Decisão\Ex 3.py
+2 - Estrutura de Decisão\Ex 5.py
+2 - Estrutura de Decisão\Ex 6.py
+2 - Estrutura de Decisão\Ex 7.py
+2 - Estrutura de Decisão\Ex 8.py
+2 - Estrutura de Decisão\Ex 9.py
+3 - Estrutura de Repetição\Ex 1.py
+3 - Estrutura de Repetição\Ex 10.py
+3 - Estrutura de Repetição\Ex 11.py
+3 - Estrutura de Repetição\Ex 12.py
+3 - Estrutura de Repetição\Ex 13.py
+3 - Estrutura de Repetição\Ex 14.py
+3 - Estrutura de Repetição\Ex 15.py
+3 - Estrutura de Repetição\Ex 16.py
+3 - Estrutura de Repetição\Ex 17.py
+3 - Estrutura de Repetição\Ex 18.py
+3 - Estrutura de Repetição\Ex 19.py
+3 - Estrutura de Repetição\Ex 20.py
+3 - Estrutura de Repetição\Ex 21.py
+3 - Estrutura de Repetição\Ex 22.py
+3 - Estrutura de Repetição\Ex 24.py
+3 - Estrutura de Repetição\Ex 25.py
+3 - Estrutura de Repetição\Ex 26.py
+3 - Estrutura de Repetição\Ex 27.py
+3 - Estrutura de Repetição\Ex 28.py
+3 - Estrutura de Repetição\Ex 29.py
+3 - Estrutura de Repetição\Ex 30.py
+3 - Estrutura de Repetição\Ex 31.py
+3 - Estrutura de Repetição\Ex 33.py
+3 - Estrutura de Repetição\Ex 34.py
+3 - Estrutura de Repetição\Ex 35.py
+3 - Estrutura de Repetição\Ex 36.py
+3 - Estrutura de Repetição\Ex 37.py
+3 - Estrutura de Repetição\Ex 38.py
+3 - Estrutura de Repetição\Ex 39.py
+3 - Estrutura de Repetição\Ex 4.py
+3 - Estrutura de Repetição\Ex 40.py
+3 - Estrutura de Repetição\Ex 42.py
+3 - Estrutura de Repetição\Ex 43.py
+3 - Estrutura de Repetição\Ex 44.py
+3 - Estrutura de Repetição\Ex 48.py
+3 - Estrutura de Repetição\Ex 49.py
+3 - Estrutura de Repetição\Ex 50.py
+3 - Estrutura de Repetição\Ex 51.py
+3 - Estrutura de Repetição\Ex 52.py
+3 - Estrutura de Repetição\Ex 7.py
+3 - Estrutura de Repetição\Ex 9.py

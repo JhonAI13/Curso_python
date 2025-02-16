@@ -1,0 +1,3 @@
+Exercício 1.py
+Exercício 2.py
+Exercício 3.py

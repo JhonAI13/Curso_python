@@ -1,0 +1,5 @@
+aleatorio.py
+arruma.py
+ex.py
+maximo.py
+play.py

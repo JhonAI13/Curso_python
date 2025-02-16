@@ -1,0 +1,7 @@
+7.1 e 7.2 - Produto de Matrizes.py
+7.3 - Solução do Sistema.py
+7.4 - Há repetidos ou não.py
+7.5 - Matriz de Permutaçao.py
+7.6 - Linhas e colunas nulas.py
+7.7 - Quadrado Mágico.py
+7.8 - Pascal.py

@@ -1,0 +1,4 @@
+Dados.py
+Exercícios\Exercício 1.py
+Função len e método Count.py
+Gabarito\Exercício 1 - Gabarito.py

@@ -1,0 +1,10 @@
+Exemplos\Exemplo 1.py
+Exemplos\Exemplo 2.py
+Exemplos\Exemplo 3.py
+Exemplos\Exemplo 4.py
+Exercícios\Exercício 1.py
+Exercícios\Exercício 2.py
+Função - Construção.py
+Funções - Exemplos.py
+Gabarito\Exercício 1 - Gabarito.py
+Gabarito\Exercício 2 - Gabarito.py

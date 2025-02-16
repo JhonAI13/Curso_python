@@ -1,0 +1,7 @@
+Exercícios\Exercício Megasena 1.py
+Exercícios\Exercício Megasena 2.py
+Exercícios\Exercício Megasena 3.py
+Gabarito\Exercício Megasena 1 - Gabarito.py
+Gabarito\Exercício Megasena 2 - Gabarito.py
+Gabarito\Exercício Megasena 3 - Gabarito.py
+Simulador Megasena.py

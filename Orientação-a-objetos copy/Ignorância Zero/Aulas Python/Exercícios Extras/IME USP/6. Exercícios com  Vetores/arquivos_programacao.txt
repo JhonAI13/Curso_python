@@ -1,0 +1,15 @@
+6.1 - Imprimir na Ordem Inversa.py
+6.10 - Valor do p(x) para diferentes x.py
+6.11 - Coeficientes da Derivada do polinômio.py
+6.12 - Obter q(x) por Briot-Ruffini.py
+6.13 - Produtos de Polinômios.py
+6.15 - Média do aluno e da classe para provas de diferentes pesos.py
+6.16 - Segmento Repetido.py
+6.17 - Maior segmento na Sequência.py
+6.2 - Número de Acertos na Prova.py
+6.3 - Número de ocorrência de cada face do dado.py
+6.4 - Produto Escalar de Vetores.py
+6.5 - Raios de Circunferências.py
+6.7 - Número de ocorrências de um elemento da sequência.py
+6.8 - Sequência única, sem repetições.py
+6.9 - Soma de duas Sequências.py

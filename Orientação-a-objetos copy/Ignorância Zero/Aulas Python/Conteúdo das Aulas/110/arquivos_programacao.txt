@@ -1,0 +1,7 @@
+110.py
+110b.py
+ex\aleatorio.py
+ex\arruma.py
+ex\ex.py
+ex\play.py
+interect.py

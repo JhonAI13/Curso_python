@@ -1,0 +1,8 @@
+111.py
+escreve.py
+ex\aleatorio.py
+ex\arruma.py
+ex\ex.py
+ex\maximo.py
+ex\play.py
+recebe.py

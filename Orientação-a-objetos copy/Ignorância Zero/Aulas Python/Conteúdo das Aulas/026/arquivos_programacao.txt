@@ -1,0 +1,5 @@
+Append.py
+Exercício\Exercício 1.py
+Exercício\Exercício 2.py
+Gabarito\Exercício 1 - Gabarito.py
+Gabarito\Exercício 2 - Gabarito.py

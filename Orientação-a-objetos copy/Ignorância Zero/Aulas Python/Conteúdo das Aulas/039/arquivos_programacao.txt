@@ -1,0 +1,6 @@
+Exercícios\Exercício 1.py
+Exercícios\Exercício 2.py
+Fatorial.py
+Gabarito\Exercício 1 - Gabarito.py
+Gabarito\Exercício 2 - Gabarito.py
+Passada.py

@@ -1,0 +1,10 @@
+Gabarito\Jogo.py
+Gabarito\Luta.py
+Gabarito\Personagem.py
+Gabarito\inimigo.py
+Gabarito\player.py
+Jogo.py
+Luta.py
+Personagem.py
+inimigo.py
+player.py

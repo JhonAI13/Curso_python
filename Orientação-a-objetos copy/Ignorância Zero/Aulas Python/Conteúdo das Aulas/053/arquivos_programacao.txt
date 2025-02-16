@@ -1,0 +1,3 @@
+Encontra Palavras - Gabarito.py
+Encontra Palavras.py
+auxiliar.py

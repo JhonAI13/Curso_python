@@ -1,0 +1,7 @@
+Dia da Semana.py
+Exercício\Exercicio 1.py
+Exercício\Exercicio 2.py
+Gabarito\Gabarito - Exercicio 1.py
+Gabarito\Gabarito - Exercicio 2.py
+Ordem Decrescente.py
+teste.py

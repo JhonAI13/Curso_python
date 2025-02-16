@@ -1,0 +1,2 @@
+EX-relatorio\Exercício 1.py
+Modos_de_abertura.py

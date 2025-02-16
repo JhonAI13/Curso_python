@@ -1,0 +1,5 @@
+Exercícios\Exercício 1.py
+Gabarito\Exercício 1 - Gabarito.py
+Mini Jogo.py
+Remove.py
+Reverse.py

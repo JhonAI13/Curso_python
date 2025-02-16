@@ -1,0 +1,5 @@
+Exercício 1.py
+Exercício 2.py
+Gabarito\Exercício 1 - Resposta.py
+Gabarito\Exercício 2 - Resposta.py
+Soma.py

@@ -1,0 +1,7 @@
+Números Palíndromes.py
+Segmentos Crescentes.py
+Segmentos em Sequências.py
+Soma das Dezenas ao Quadrado.py
+Subnúmeros - Solução 1.py
+Subnúmeros - Solução 2.py
+Subnúmeros.py

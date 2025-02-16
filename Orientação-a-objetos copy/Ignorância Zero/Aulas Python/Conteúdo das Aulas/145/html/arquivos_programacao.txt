@@ -1,0 +1,5 @@
+contato.html
+feet.html
+head.html
+navbar.html
+sobre.html

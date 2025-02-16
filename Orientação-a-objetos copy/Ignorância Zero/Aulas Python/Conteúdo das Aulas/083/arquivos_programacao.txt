@@ -1,0 +1,12 @@
+all.py
+any.py
+exs\ex_all.py
+exs\ex_any.py
+exs\ex_reduce.py
+exs\ex_sum.py
+gabs\ex_all_gab.py
+gabs\ex_any_gab.py
+gabs\ex_reduce_gab.py
+gabs\ex_sum_gab.py
+reduce.py
+sum.py

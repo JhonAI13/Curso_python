@@ -1,0 +1,17 @@
+cgi-bin\fetch_page.py
+cgi-bin\recebe.py
+css\bootstrap-theme.css
+css\bootstrap-theme.min.css
+css\bootstrap.css
+css\bootstrap.min.css
+css\starter-template.css
+html\contato.html
+html\feet.html
+html\head.html
+html\navbar.html
+html\sobre.html
+http-server.py
+index.html
+js\bootstrap.js
+js\bootstrap.min.js
+js\npm.js

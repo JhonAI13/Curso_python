@@ -1,0 +1,5 @@
+Brincando.py
+Exercicios\Exercicio 1.py
+Fatorial.py
+Gabarito\Exercicio 1 - Gabarito.py
+Numeros Triangulares.py

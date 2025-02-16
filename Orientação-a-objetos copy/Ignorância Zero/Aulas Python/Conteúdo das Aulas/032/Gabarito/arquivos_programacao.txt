@@ -1,0 +1,3 @@
+Exercício Megasena 1 - Gabarito.py
+Exercício Megasena 2 - Gabarito.py
+Exercício Megasena 3 - Gabarito.py

@@ -1,0 +1,6 @@
+Exercicios\Exercicio 1.py
+Exercicios\Exercicio 2.py
+Gabarito\Gabarito - Exercicio 1.py
+Gabarito\Gabarito - Exercicio 2.py
+Idade.py
+Numeros Procurados.py

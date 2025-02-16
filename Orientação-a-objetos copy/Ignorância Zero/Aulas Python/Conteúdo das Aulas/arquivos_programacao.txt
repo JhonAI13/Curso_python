@@ -1,0 +1,809 @@
+002\Primeiro.py
+003\Print.py
+004\Comentario.py
+005\Variavel.py
+006\Exercício 1.py
+006\Exercício 2.py
+006\Gabarito\Exercício 1 - Resposta.py
+006\Gabarito\Exercício 2 - Resposta.py
+006\Soma.py
+007\Cachorros.py
+007\Exercicio 1.py
+007\Exercicio 2.py
+007\Gabarito\Exercicio 1 - Gabarito.py
+007\Gabarito\Exercicio 2 - Gabarito.py
+007\Operações.py
+008\Balada.py
+009\Balada2.py
+009\Exercícios\Exercício 1.py
+009\Exercícios\Exercício 2.py
+009\Gabarito\Gabarito - Exercício 1.py
+009\Gabarito\Gabarito - Exercício 2.py
+009\Loja de Tintas.py
+009\Maior.py
+010\Comparaçoes Multiplas.py
+010\Exercicios\Exercício 1.py
+010\Gabarito\Gabarito - Exercício 1.py
+011\Dia da Semana.py
+011\Exercício\Exercicio 1.py
+011\Exercício\Exercicio 2.py
+011\Gabarito\Gabarito - Exercicio 1.py
+011\Gabarito\Gabarito - Exercicio 2.py
+011\Ordem Decrescente.py
+011\teste.py
+013\Exercicios\Exercicio 1.py
+013\Exercicios\Exercicio 2.py
+013\Gabarito\Gabarito - Exercicio 1.py
+013\Gabarito\Gabarito - Exercicio 2.py
+013\Potência.py
+013\Quadrados de números terminados em zero.py
+013\While Loop.py
+013\n!.py
+014\Balança de Empresas.py
+014\Nested while loop.py
+015\Exercicios\Exercicio 1.py
+015\Exercicios\Exercicio 2.py
+015\Gabarito\Gabarito - Exercicio 1.py
+015\Gabarito\Gabarito - Exercicio 2.py
+015\Idade.py
+015\Numeros Procurados.py
+016\Números Palíndromes.py
+016\Segmentos Crescentes.py
+016\Segmentos em Sequências.py
+016\Soma das Dezenas ao Quadrado.py
+016\Subnúmeros - Solução 1.py
+016\Subnúmeros - Solução 2.py
+016\Subnúmeros.py
+017\Brincando.py
+017\Exercicios\Exercicio 1.py
+017\Fatorial.py
+017\Gabarito\Exercicio 1 - Gabarito.py
+017\Numeros Triangulares.py
+018\Brincando.py
+018\Exercicio\Exercicio 2.py
+018\Exercicio\Exercício 1.py
+018\Gabarito\Exercicio 2 - Gabarito 1.py
+018\Gabarito\Exercício 1 - Gabarito.py
+018\Gabarito\Exercício 2 - Gabarito 2.py
+018\Gabarito\Exercício 2 - Gabarito 3.py
+018\Soma de números pares em sequências.py
+018\Tabuada.py
+019\Exercícios\Exercício 1.py
+019\Exercícios\Exercício 2.py
+019\Gabarito\Exercício 1 - Gabarito.py
+019\Gabarito\Exercício 2 - Gabarito.py
+019\Primos.py
+019\Triângulo Retângulo.py
+020\Exercícios\Exercício 1.py
+020\Exercícios\Exercício 2.py
+020\Gabarito\Exercício 1 - Gabarito.py
+020\Gabarito\Exercício 2 - Gabarito.py
+020\Média.py
+020\Valor da soma.py
+021\Arredondar.py
+021\Exercícios\Exercício 1.py
+021\Gabarito\Exercício 1 - Gabarito.py
+021\Três Números.py
+022\Exercícios\Exercício 1.py
+022\Exercícios\Exercício 2.py
+022\Gabarito\Exercício 1 - Gabarito.py
+022\Gabarito\Exercício 2 - Gabarito.py
+022\Maior e menor Temp.py
+022\Media de alunos por turma.py
+023\Brincando.py
+023\Exercícios\Exercício 1.py
+023\Gabarito\Exercício 1 - Gabarito.py
+023\Área Círculo.py
+024\5 mais importantes.py
+024\Exercícios\Exercicio 1.py
+024\Gabarito\Exercicio 1 - Gabarito.py
+024\Quebrando a Banca.py
+026\Append.py
+026\Exercício\Exercício 1.py
+026\Exercício\Exercício 2.py
+026\Gabarito\Exercício 1 - Gabarito.py
+026\Gabarito\Exercício 2 - Gabarito.py
+028\Dados.py
+028\Exercícios\Exercício 1.py
+028\Função len e método Count.py
+028\Gabarito\Exercício 1 - Gabarito.py
+029\Exercícios\Exercício 1.py
+029\Exercícios\Exercício 2.py
+029\Gabarito\Exercício 1 - Gabarito.py
+029\Gabarito\Exercício 2 - Gabarito.py
+029\Média maior que sete.py
+029\brincando.py
+030\Exercícios\Exercício 1.py
+030\Gabarito\Exercício 1 - Gabarito.py
+030\Mini Jogo.py
+030\Remove.py
+030\Reverse.py
+031\Método Index.py
+031\Método Insert.py
+031\Método pop.py
+031\Método sort.py
+032\Exercícios\Exercício Megasena 1.py
+032\Exercícios\Exercício Megasena 2.py
+032\Exercícios\Exercício Megasena 3.py
+032\Gabarito\Exercício Megasena 1 - Gabarito.py
+032\Gabarito\Exercício Megasena 2 - Gabarito.py
+032\Gabarito\Exercício Megasena 3 - Gabarito.py
+032\Simulador Megasena.py
+033\Exemplos\Exemplo 1.py
+033\Exemplos\Exemplo 2.py
+033\Exemplos\Exemplo 3.py
+033\Exemplos\Exemplo 4.py
+033\Exercícios\Exercício 1.py
+033\Exercícios\Exercício 2.py
+033\Função - Construção.py
+033\Funções - Exemplos.py
+033\Gabarito\Exercício 1 - Gabarito.py
+033\Gabarito\Exercício 2 - Gabarito.py
+034\Exemplo 3 - Tuplas.py
+035\Exercícios\Exercício 1.py
+035\Exercícios\Exercício 2.py
+035\Gabaritos\Exercício 1 - Gabarito.py
+035\Gabaritos\Exercício 2 - Gabarito.py
+035\Peso de provas.py
+035\Soma.py
+036\Bancário.py
+036\Exemplo.py
+037\Constrói Matriz.py
+037\Desafio\Desafio - Jogo dos Números.py
+037\Gera matriz.py
+037\Resolução\Desafio - Jogo dos Números - Solução.py
+037\Troca elemento matriz.py
+038\Atribuição de Função.py
+038\Mesmos nomes.py
+038\Tudo.py
+039\Exercícios\Exercício 1.py
+039\Exercícios\Exercício 2.py
+039\Fatorial.py
+039\Gabarito\Exercício 1 - Gabarito.py
+039\Gabarito\Exercício 2 - Gabarito.py
+039\Passada.py
+040\Exercícios\Exercício 1.py
+040\Exercícios\Exercício 2.py
+040\Expoente.py
+040\Gabarito\Exercício 1 - Gabarito.py
+040\Gabarito\Exercício 2 - Gabarito.py
+040\Lista de comida.py
+042\Bagels - Obj.py
+042\CABEÇALHO.py
+042\pedro_func.py
+042\seu_ex.py
+043\Exercícios\Exercício 1.py
+043\Exercícios\Exercício 2.py
+043\Forma Lista.py
+043\Gabarito\Exercício 1 - Gabarito.py
+043\Gabarito\Exercício 2 - Gabarito.py
+043\Soma Lista.py
+044\Exercícios\Exercício 1.py
+044\Exercícios\Exercício 2.py
+044\Gabarito\Exercício 1 - Gabarito.py
+044\Gabarito\Exercício 2 - Gabarito.py
+044\Refazendo o Exercício.py
+045\Exercícios\Exercício 1.py
+045\Gabarito\Exercício 1 - Gabarito.py
+045\Imprimir ao lado do outro.py
+045\abc.py
+046\Exercícios\Exercício.py
+046\Formatação de Saída.py
+046\Gabarito\Exercício - Gabarito.py
+047\Comparação String.py
+047\Converte String.py
+047\Exercícios\Exercício 1.py
+047\Exercícios\Exercício 2.py
+047\Gabarito\Exercício 1 - Gabarito.py
+047\Gabarito\Exercício 2 - Gabarito.py
+047\Nome e Senha.py
+047\Tabela ASCII.py
+048Isalfa\Cifra de Cesar - Gabarito.py
+048Isalfa\Cifra de Cesar.py
+048Isalfa\islower, isupper e isalpha.py
+048Isalfa\split e rsplit.py
+049\Forca - Gabarito.py
+049\Forca.py
+049\startswith.py
+050\Find e Index.py
+050\count.py
+050\replace.py
+051\Brincando.py
+051\Exercícios\Exercício 1.py
+051\Gabarito\Exercício 1 - Gabarito.py
+052\Jogo - Gabarito.py
+052\Jogo.py
+053\Encontra Palavras - Gabarito.py
+053\Encontra Palavras.py
+053\auxiliar.py
+055\Exercícios\Exercício 1.py
+055\Gabarito\Exercício 1 - Gabarito.py
+056\get.py
+056\items, keys, values.py
+057\Jogo.py
+057\Luta.py
+059\Exercício\Exercício 1.py
+059\Exercício\Exercício 2.py
+059\Exercício\Exercício 3.py
+059\Gabarito\Exercício 1 - Gabarito.py
+059\Gabarito\Exercício 2 - Gabarito.py
+059\Gabarito\Exercício 3 - Gabarito.py
+060\Exercício\Exercício 1.py
+060\Gabarito\Exercício 1 - Gabarito.py
+062\Exercício - Gabarito.py
+062\Exercício.py
+063\Exercício - Gabarito.py
+063\Exercício.py
+066\Jogo.py
+066\Lutas\MinhaLuta\Luta.py
+067\arquivo_erro.py
+067\teste.py
+068\Adivinha numero - Gabarito.py
+068\Advinha numero.py
+068\teste.py
+069\Adivinha numeroB - Gabarito.py
+069\Adivinha numeroB.py
+070\Assert.py
+073\Teste.py
+075\Exercício - Gabarito.py
+075\Exercício.py
+076\Exercício - Gabarito.py
+076\Exercício.py
+077\Gabarito\Jogo - Gabarito.py
+077\Gabarito\Luta.py
+077\Jogo.py
+077\Luta.py
+078\Gabarito\Jogo.py
+078\Gabarito\Luta.py
+078\Gabarito\Personagem.py
+078\Gabarito\inimigo.py
+078\Gabarito\player.py
+078\Jogo.py
+078\Luta.py
+078\Personagem.py
+078\inimigo.py
+078\player.py
+079\Gabarito\Jogo.py
+079\Gabarito\Luta.py
+079\Gabarito\Personagem.py
+079\Gabarito\inimigo.py
+079\Gabarito\player.py
+079\Jogo.py
+079\Luta.py
+079\Personagem.py
+079\inimigo.py
+079\player.py
+081\comp_lista.py
+081\ex.py
+081\ex_gab.py
+082\Filter.py
+082\Map.py
+082\Zip.py
+082\exs\ex_filter.py
+082\exs\ex_map.py
+082\exs\ex_zip.py
+082\gabs\ex_filter_gab.py
+082\gabs\ex_map_gab.py
+082\gabs\ex_zip_gab.py
+083\all.py
+083\any.py
+083\exs\ex_all.py
+083\exs\ex_any.py
+083\exs\ex_reduce.py
+083\exs\ex_sum.py
+083\gabs\ex_all_gab.py
+083\gabs\ex_any_gab.py
+083\gabs\ex_reduce_gab.py
+083\gabs\ex_sum_gab.py
+083\reduce.py
+083\sum.py
+084\8rainhas.py
+084\8rainhas_gab.py
+085\ex.py
+085\ex_gab.py
+086\Quadrados.py
+086\ex.py
+086\ex_gab.py
+087\calc_est.py
+087\t.py
+088\brincando.py
+088\calc_est.py
+088\ex_gab.py
+088\ola_mundo.py
+089\calc_est.py
+089\ex_gab.py
+090\calc_est.py
+090\ex_gab.py
+091\calc_est.py
+091\ex_gab.py
+092\calc_est.py
+092\ex_gab.py
+093\calc_est.py
+093\ex_gab.py
+094\calc_est.py
+094\ex_gab.py
+094\final\calc_est.py
+094\final\est.py
+095\app.py
+095\constantes.py
+095\ex_gab.py
+095\jogo.py
+096\ex\app.py
+096\ex\app1.py
+096\ex\ex_gab.py
+096\jogo\constantes.py
+096\jogo\jogo.py
+097\ex\app.py
+097\ex\app1.py
+097\ex\app2.py
+097\ex\ex_gab.py
+097\jogo\constantes.py
+097\jogo\jogo.py
+098\ex\app.py
+098\ex\app1.py
+098\ex\app2.py
+098\ex\app3.py
+098\ex\ex_gab.py
+098\jogo\constantes.py
+098\jogo\jogo.py
+099\jogo\constantes.py
+099\jogo\jogo.py
+100\ex\app.py
+100\ex\app1.py
+100\ex\app2.py
+100\ex\app3.py
+100\ex\app4.py
+100\ex\ex_gab.py
+100\jogo\bola.py
+100\jogo\constantes.py
+100\jogo\jogo.py
+100\jogo\objeto.py
+100\jogo\retangulo.py
+101\ex\app.py
+101\ex\app1.py
+101\ex\app2.py
+101\ex\app3.py
+101\ex\app4.py
+101\ex\app5.py
+101\ex\ex_gab.py
+101\jogo\bola.py
+101\jogo\constantes.py
+101\jogo\jogo.py
+101\jogo\objeto.py
+101\jogo\retangulo.py
+102\ex\app.py
+102\ex\app1.py
+102\ex\app2.py
+102\ex\app3.py
+102\ex\app4.py
+102\ex\app5.py
+102\ex\app6.py
+102\ex\app7.py
+102\grid.py
+102\jogo completo\bola.py
+102\jogo completo\constantes.py
+102\jogo completo\jogo.py
+102\jogo completo\objeto.py
+102\jogo completo\retangulo.py
+102\mouse.py
+103\Time.py
+103\ex\app.py
+103\ex\app1.py
+103\ex\app2.py
+103\ex\app3.py
+103\ex\app4.py
+103\ex\app5.py
+103\ex\app6.py
+103\ex\app7.py
+103\ex\app8.py
+103\jogo\bola.py
+103\jogo\constantes.py
+103\jogo\jogo.py
+103\jogo\objeto.py
+103\jogo\retangulo.py
+104\Winsound.py
+104\ex\Imagens\__init__.py
+104\ex\__init__.py
+104\ex\app.py
+104\ex\app1.py
+104\ex\app2.py
+104\ex\app3.py
+104\ex\app4.py
+104\ex\app5.py
+104\ex\app6.py
+104\ex\app7.py
+104\ex\app8.py
+104\ex\app9.py
+104\jogo\bola.py
+104\jogo\constantes.py
+104\jogo\jogo.py
+104\jogo\objeto.py
+104\jogo\retangulo.py
+105\105.py
+105\ex\Imagens\__init__.py
+105\ex\app.py
+105\ex\apps\app1.py
+105\ex\apps\app2.py
+105\ex\apps\app3.py
+105\ex\apps\app4.py
+105\ex\apps\app5.py
+105\ex\apps\app6.py
+105\ex\apps\app7.py
+105\ex\apps\app8.py
+105\ex\apps\app9.py
+105\jogo\constantes\constantes.py
+105\jogo\objetos\bola.py
+105\jogo\objetos\objeto.py
+105\jogo\objetos\retangulo.py
+105\jogo\play.py
+105\jogo\principal\jogo.py
+106\106.py
+107\107.py
+107\ex\app.py
+107\ex\apps\app1\app1.py
+107\ex\apps\app2\app2.py
+107\ex\apps\app3\app3.py
+107\ex\apps\app4\app4.py
+107\ex\apps\app5\app5.py
+107\ex\apps\app6\app6.py
+107\ex\apps\app7\app7.py
+107\ex\apps\app8\app8.py
+107\ex\apps\app9\app9.py
+108\108.py
+108\ex\aplicativo\app.py
+108\ex\aplicativo\apps\app1\app1.py
+108\ex\aplicativo\apps\app2\app2.py
+108\ex\aplicativo\apps\app3\app3.py
+108\ex\aplicativo\apps\app4\app4.py
+108\ex\aplicativo\apps\app5\app5.py
+108\ex\aplicativo\apps\app6\app6.py
+108\ex\aplicativo\apps\app7\app7.py
+108\ex\aplicativo\apps\app8\app8.py
+108\ex\aplicativo\apps\app9\app9.py
+108\ex\instalador.py
+109\109.py
+109\ex\aplicativo\app.py
+109\ex\aplicativo\apps\app1\app1.py
+109\ex\aplicativo\apps\app2\app2.py
+109\ex\aplicativo\apps\app3\app3.py
+109\ex\aplicativo\apps\app4\app4.py
+109\ex\aplicativo\apps\app5\app5.py
+109\ex\aplicativo\apps\app6\app6.py
+109\ex\aplicativo\apps\app7\app7.py
+109\ex\aplicativo\apps\app8\app8.py
+109\ex\aplicativo\apps\app9\app9.py
+109\ex\instalador.py
+110\110.py
+110\110b.py
+110\ex\aleatorio.py
+110\ex\arruma.py
+110\ex\ex.py
+110\ex\play.py
+110\interect.py
+111\111.py
+111\escreve.py
+111\ex\aleatorio.py
+111\ex\arruma.py
+111\ex\ex.py
+111\ex\maximo.py
+111\ex\play.py
+111\recebe.py
+112\112.py
+113\113.py
+113\ex\ex.py
+113\ex\gabarito.py
+113\ex\rec.py
+114\114.py
+114\hello-2.py
+114\hello.py
+115\ex\instalador.py
+115\fib.py
+116\116.py
+116\criptografa.py
+116\desafio.py
+116\descriptografa.py
+117\117.py
+118\118.py
+119\119.py
+120\120.py
+121\121.py
+122\122.py
+123\123.py
+124\124.py
+124\calendario.py
+124\horario.py
+124\relogio.py
+125\125.py
+126\126.py
+126\ex.py
+126\gabarito.py
+127\127.py
+127\com_classe.py
+128\128.py
+128\ex\ex1.py
+128\ex\ex2.py
+128\gabarito\ex1_gab.py
+128\gabarito\ex2_gab.py
+129\129.py
+129\filho.py
+129\indp.py
+129\teste.py
+129\teste2.py
+130\130.py
+130\ex\ex.py
+130\gabarito\cronometra.py
+130\gabarito\gab.py
+130\gabarito\gera.py
+130\gabarito\normal.py
+130\hello_thread.py
+130\hello_threading.py
+130\poder.py
+130\travar.py
+130\travar_sair.py
+131\131.py
+131\fila.py
+131\fila_threading.py
+132\132.py
+132\anonimo.py
+132\nomeado.py
+133\133.py
+133\event.py
+133\filho.py
+133\mult.py
+133\outros.py
+133\pipe.py
+133\pool.py
+133\queue.py
+134\134.py
+134\ex\ex1.py
+134\ex\ex2.py
+134\gab\gab1.py
+134\gab\gab2.py
+135\135.py
+135\base_cliente.py
+135\base_server.py
+135\ex\chat_cliente.py
+135\ex\chat_server.py
+136\136.py
+136\ex\cliente.py
+136\ex\server.py
+136\mult_cliente.py
+136\mult_server.py
+136\select_server.py
+136\socket_server.py
+137\137.py
+137\UDP_cliente.py
+137\UDP_server.py
+138\138.py
+138\com_headers.html
+139\139.py
+139\ftp_console.py
+139\ftp_download.py
+139\ftp_download_org.py
+139\ftp_upload.py
+140\140.py
+140\mailconfig.py
+140\pop.py
+140\smtp.py
+141\141.py
+141\http_test.py
+141\nntp.py
+142\142.py
+142\cgi-bin\cgi1.py
+142\html\index.html
+142\http-server.py
+143\cgi-bin\cgi1.py
+143\cgi-bin\cgi2_imagem.py
+143\cgi-bin\cgi3_css.py
+143\cgi-bin\cgi4_css_2.py
+143\cgi-bin\cgi5_tabela.py
+143\css\estilo1.css
+143\html\index.html
+143\http-server.py
+144\cgi-bin\fetch_page.py
+144\cgi-bin\recebe.py
+144\css\bootstrap-theme.css
+144\css\bootstrap-theme.min.css
+144\css\bootstrap.css
+144\css\bootstrap.min.css
+144\css\starter-template.css
+144\html\contato.html
+144\html\feet.html
+144\html\head.html
+144\html\navbar.html
+144\html\sobre.html
+144\http-server.py
+144\index.html
+144\js\bootstrap.js
+144\js\bootstrap.min.js
+144\js\npm.js
+145\cgi-bin\cgi1.py
+145\cgi-bin\cgi2_imagem.py
+145\cgi-bin\cgi3_css.py
+145\cgi-bin\cgi4_css_2.py
+145\cgi-bin\cgi5_tabela.py
+145\cgi-bin\cgi6_cookies.py
+145\cgi-bin\cgi7_morsel.py
+145\cgi-bin\fetch_page.py
+145\cgi-bin\menu.py
+145\cgi-bin\recebe.py
+145\css\bootstrap-theme.css
+145\css\bootstrap-theme.min.css
+145\css\bootstrap.css
+145\css\bootstrap.min.css
+145\css\estilo1.css
+145\css\starter-template.css
+145\html\contato.html
+145\html\feet.html
+145\html\head.html
+145\html\navbar.html
+145\html\sobre.html
+145\http-server.py
+145\index.html
+145\js\bootstrap.js
+145\js\bootstrap.min.js
+145\js\npm.js
+146\cgi-bin\cgi1.py
+146\cgi-bin\cgi2_imagem.py
+146\cgi-bin\cgi3_css.py
+146\cgi-bin\cgi4_css_2.py
+146\cgi-bin\cgi5_tabela.py
+146\cgi-bin\cgi6_cookies.py
+146\cgi-bin\cgi7_morsel.py
+146\cgi-bin\cgi8_upload.py
+146\cgi-bin\cgi9_download.py
+146\cgi-bin\download.py
+146\cgi-bin\download_fisico.py
+146\cgi-bin\fetch_page.py
+146\cgi-bin\menu.py
+146\cgi-bin\recebe.py
+146\cgi-bin\save_file.py
+146\css\bootstrap-theme.css
+146\css\bootstrap-theme.min.css
+146\css\bootstrap.css
+146\css\bootstrap.min.css
+146\css\estilo1.css
+146\css\starter-template.css
+146\html\contato.html
+146\html\feet.html
+146\html\head.html
+146\html\navbar.html
+146\html\sobre.html
+146\http-server.py
+146\index.html
+146\js\bootstrap.js
+146\js\bootstrap.min.js
+146\js\npm.js
+149\cgi-bin\Download.py
+149\cgi-bin\Login.py
+149\cgi-bin\MudaSenha.py
+149\cgi-bin\Sair.py
+149\cgi-bin\Upload.py
+149\cgi-bin\path_link.py
+149\classes\CookieManager.py
+149\classes\MicrosoftManager.py
+149\classes\MySQLManager.py
+149\classes\OracleManager.py
+149\classes\PostgresManager.py
+149\classes\SQLManager.py
+149\classes\SQLiteManager.py
+149\classes\SessionManager.py
+149\css\bootstrap-theme.css
+149\css\bootstrap-theme.min.css
+149\css\bootstrap.css
+149\css\bootstrap.min.css
+149\css\estilo1.css
+149\css\login.css
+149\css\registrar.css
+149\css\starter-template.css
+149\css\styles.css
+149\data\admin\Primeiro.py
+149\data\admin\cgi1.py
+149\data\admin\cgi2_imagem.py
+149\data\admin\cgi3_css.py
+149\data\admin\cgi4_css_2.py
+149\data\admin\cgi5_tabela.py
+149\data\admin\cgi6_cookies.py
+149\data\admin\cgi7_morsel.py
+149\data\admin\cgi8_upload.py
+149\data\admin\cgi9_download.py
+149\data\admin\download.py
+149\data\admin\download_fisico.py
+149\data\admin\save_file.py
+149\data\pedro\cgi1.py
+149\fetch_page.py
+149\functions\char_functions.py
+149\functions\form_functions.py
+149\includes\css\bootstrap-theme.css
+149\includes\css\bootstrap-theme.min.css
+149\includes\css\bootstrap.css
+149\includes\css\bootstrap.min.css
+149\includes\css\ie10-viewport-bug-workaround.css
+149\includes\css\jumbotron.css
+149\includes\js\bootstrap.js
+149\includes\js\bootstrap.min.js
+149\includes\js\ie-emulation-modes-warning.js
+149\includes\js\ie8-responsive-file-warning.js
+149\includes\js\jquery-1.12.0.min.js
+149\includes\js\npm.js
+149\index.html
+149\js\login.js
+149\login.py
+149\pages\contato.py
+149\pages\download.py
+149\pages\inicial.py
+149\pages\log_acessos.py
+149\pages\menu.py
+149\pages\mudar_senha.py
+149\pages\path_link.py
+149\pages\sobre.py
+149\pages\upload.py
+149\template\footer.py
+149\template\head.py
+149\template\table_body.py
+149\template\table_navigation.py
+149\test.py
+150\Gabarito\SQLManager.py
+150\SQLManager.py
+151\Gabarito\MySQLManager.py
+151\Teste 1 - MySQL\Login.py
+151\Teste 1 - MySQL\MySQLManager.py
+151\Teste 1 - MySQL\SQLManager.py
+151\Teste 1 - MySQL\css\bootstrap-theme.css
+151\Teste 1 - MySQL\css\bootstrap-theme.min.css
+151\Teste 1 - MySQL\css\bootstrap.css
+151\Teste 1 - MySQL\css\bootstrap.min.css
+151\Teste 1 - MySQL\css\estilo1.css
+151\Teste 1 - MySQL\css\login.css
+151\Teste 1 - MySQL\css\registrar.css
+151\Teste 1 - MySQL\css\starter-template.css
+151\Teste 1 - MySQL\css\styles.css
+151\Teste 1 - MySQL\form_functions.py
+151\Teste 1 - MySQL\includes\css\bootstrap-theme.css
+151\Teste 1 - MySQL\includes\css\bootstrap-theme.min.css
+151\Teste 1 - MySQL\includes\css\bootstrap.css
+151\Teste 1 - MySQL\includes\css\bootstrap.min.css
+151\Teste 1 - MySQL\includes\css\ie10-viewport-bug-workaround.css
+151\Teste 1 - MySQL\includes\css\jumbotron.css
+151\Teste 1 - MySQL\includes\js\bootstrap.js
+151\Teste 1 - MySQL\includes\js\bootstrap.min.js
+151\Teste 1 - MySQL\includes\js\ie-emulation-modes-warning.js
+151\Teste 1 - MySQL\includes\js\ie8-responsive-file-warning.js
+151\Teste 1 - MySQL\includes\js\jquery-1.12.0.min.js
+151\Teste 1 - MySQL\includes\js\npm.js
+151\Teste 1 - MySQL\index.html
+151\Teste 1 - MySQL\js\login.js
+152\Download.py
+152\Login.py
+152\MudaSenha.py
+152\Teste 2 - SQLite\Login.py
+152\Teste 2 - SQLite\SQLManager.py
+152\Teste 2 - SQLite\SQLiteManager.py
+152\Teste 2 - SQLite\css\bootstrap-theme.css
+152\Teste 2 - SQLite\css\bootstrap-theme.min.css
+152\Teste 2 - SQLite\css\bootstrap.css
+152\Teste 2 - SQLite\css\bootstrap.min.css
+152\Teste 2 - SQLite\css\estilo1.css
+152\Teste 2 - SQLite\css\login.css
+152\Teste 2 - SQLite\css\registrar.css
+152\Teste 2 - SQLite\css\starter-template.css
+152\Teste 2 - SQLite\css\styles.css
+152\Teste 2 - SQLite\database_creation\SQLiteCreation.py
+152\Teste 2 - SQLite\database_creation\SQLiteTeste.py
+152\Teste 2 - SQLite\form_functions.py
+152\Teste 2 - SQLite\includes\css\bootstrap-theme.css
+152\Teste 2 - SQLite\includes\css\bootstrap-theme.min.css
+152\Teste 2 - SQLite\includes\css\bootstrap.css
+152\Teste 2 - SQLite\includes\css\bootstrap.min.css
+152\Teste 2 - SQLite\includes\css\ie10-viewport-bug-workaround.css
+152\Teste 2 - SQLite\includes\css\jumbotron.css
+152\Teste 2 - SQLite\includes\js\bootstrap.js
+152\Teste 2 - SQLite\includes\js\bootstrap.min.js
+152\Teste 2 - SQLite\includes\js\ie-emulation-modes-warning.js
+152\Teste 2 - SQLite\includes\js\ie8-responsive-file-warning.js
+152\Teste 2 - SQLite\includes\js\jquery-1.12.0.min.js
+152\Teste 2 - SQLite\includes\js\npm.js
+152\Teste 2 - SQLite\index.html
+152\Teste 2 - SQLite\js\login.js
+152\Upload.py
+remove.py

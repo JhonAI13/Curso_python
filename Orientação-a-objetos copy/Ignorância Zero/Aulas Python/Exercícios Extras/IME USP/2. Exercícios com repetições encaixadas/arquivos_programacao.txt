@@ -1,0 +1,7 @@
+2.1 - Soma de números pares em sequências.py
+2.2 - Hipotenusas de Triângulos retângulos.py
+2.3 - Maior Valor para a Equação.py
+2.4 - Soma de Números Primos.py
+2.5 - Soma de números ímpares para n ao cubo.py
+2.6 - Multiplicidade de raízes de um número.py
+2.7 - MDC de uma sequência.py

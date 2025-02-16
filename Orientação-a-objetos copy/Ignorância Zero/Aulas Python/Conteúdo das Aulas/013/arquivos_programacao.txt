@@ -1,0 +1,8 @@
+Exercicios\Exercicio 1.py
+Exercicios\Exercicio 2.py
+Gabarito\Gabarito - Exercicio 1.py
+Gabarito\Gabarito - Exercicio 2.py
+Potência.py
+Quadrados de números terminados em zero.py
+While Loop.py
+n!.py

@@ -1,0 +1,4 @@
+5 mais importantes.py
+Exercícios\Exercicio 1.py
+Gabarito\Exercicio 1 - Gabarito.py
+Quebrando a Banca.py
